@@ -1,0 +1,1001 @@
+ID,name,category,priceTier,neighbourhood,openHour,closeHour,averageRating,kidFriendly
+1,COMPLEXITY Restuarant,Lebanese,$,Crown Heights,09:00,21:00,0,TRUE
+2,SERVICE-DESK Restuarant,Peruvian,$$$,Throgs Neck,07:00,22:00,0,FALSE
+3,DISCRETE Restuarant,Slovak,$$$,Silver Lake,08:00,18:00,1,TRUE
+4,PROCESS IMPROVEMENT Restuarant,Goan,$,Arden Heights,07:00,21:00,0,TRUE
+5,FUNCTIONALITIES Restuarant,Arab,$$,Ocean Parkway,13:00,17:00,0,FALSE
+6,ENCRYPTION Restuarant,Peruvian,$$,Mapleton,13:00,22:00,0,TRUE
+7,BENCHMARK Restuarant,Greek,$,Upper West Side,08:00,21:00,0,TRUE
+8,ENHANCED Restuarant,Serbian,$$$,Blissville,10:00,23:00,0,FALSE
+9,INCREMENTAL Restuarant,British,$,Financial District,09:00,22:00,0,TRUE
+10,INCREMENTAL Restuarant,American,$$$,Melrose,10:00,21:00,0,FALSE
+11,CONTEXTUALLY-BASED Restuarant,South,$,Williamsbridge,12:00,21:00,0,TRUE
+12,INFRASTRUCTURE Restuarant,British,$,Stapleton,07:00,15:00,0,FALSE
+13,MULTI-STATE Restuarant,Mexican,$$$,Bensonhurst,11:00,21:00,0,TRUE
+14,PRICING STRUCTURE Restuarant,Thai,$$$,Queensbridge,11:00,00:00,0,FALSE
+15,DEDICATED Restuarant,American,$,Astoria Heights,09:00,22:00,0,FALSE
+16,ZERO TOLERANCE Restuarant,Sri,$$,Harding Park,08:00,17:00,0,TRUE
+17,LOGISTICAL Restuarant,Crimean,$,Remsen Village,07:00,20:00,0,TRUE
+18,RADICAL Restuarant,Mennonite,$$,Hollis,07:00,22:00,0,TRUE
+19,BENCHMARK Restuarant,Slovenian,$$$,Crown Heights,09:00,23:00,0,TRUE
+20,PERSEVERING Restuarant,Singaporean,$$$,Bedford Park,07:00,18:00,0,FALSE
+21,MOTIVATING Restuarant,Indian,$$$,New Hyde Park,11:00,22:00,1,FALSE
+22,CONTENT-BASED Restuarant,Eritrean,$$$,Fulton Ferry,12:00,17:00,0,FALSE
+23,HARDWARE Restuarant,Assyrian,$$,Co-op City,10:00,22:00,0,TRUE
+24,PROGRESSIVE Restuarant,Somali,$,Midwood,08:00,17:00,1,TRUE
+25,ENCOMPASSING Restuarant,Bangladeshi,$$$,St. George,11:00,19:00,0,TRUE
+26,TEAM-ORIENTED Restuarant,Punjabi,$,Weeksville,13:00,21:00,0,TRUE
+27,INTERMEDIATE Restuarant,Tatar,$,Soundview,11:00,16:00,0,FALSE
+28,DISCRETE Restuarant,Goan,$$,Shore Acres,06:00,19:00,1,TRUE
+29,APPROACH Restuarant,Cajun,$$$,Howard Beach,08:00,17:00,0,TRUE
+30,DIVERSE Restuarant,Pennsylvania,$,Vinegar Hill,06:00,16:00,0,FALSE
+31,DOWN-SIZED Restuarant,Spanish,$,Sunnyside Gardens,12:00,17:00,0,FALSE
+32,POLICY Restuarant,cuisine,$,Richmond Valley,09:00,18:00,1,TRUE
+33,EMULATION Restuarant,Hyderabad,$$,Cypress Hills,13:00,16:00,0,FALSE
+34,IMPACTFUL Restuarant,Latvian,$,Greenridge,09:00,23:00,0,TRUE
+35,MANDATORY Restuarant,Bashkir,$$,Eastchester,07:00,22:00,0,FALSE
+36,STABLE Restuarant,Mennonite,$$,Olinville,11:00,20:00,0,TRUE
+37,CUSTOMER LOYALTY Restuarant,Indonesian,$$,Bushwick,14:00,19:00,0,FALSE
+38,DIGITIZED Restuarant,Mexican,$$$,Tompkinsville,13:00,20:00,1,FALSE
+39,BUDGETARY MANAGEMENT Restuarant,Egyptian,$$$,Riverdale,07:00,18:00,0,FALSE
+40,EXTENDED Restuarant,Inuit,$$,Williamsbridge,11:00,20:00,0,FALSE
+41,VISION-ORIENTED Restuarant,Caribbean,$$,City Island,09:00,21:00,1,TRUE
+42,MULTI-STATE Restuarant,Indian,$$$,Canarsie,11:00,19:00,0,FALSE
+43,NON-VOLATILE Restuarant,Goan,$,Auburndale,08:00,20:00,0,FALSE
+44,STABLE Restuarant,French,$$$,Fulton Mall,11:00,22:00,0,TRUE
+45,BOTTOM-LINE Restuarant,Parsi,$$$,Port Richmond,10:00,17:00,0,FALSE
+46,CONTEXT-SENSITIVE Restuarant,Estonian,$$,Corona,12:00,15:00,0,FALSE
+47,TERTIARY Restuarant,Lebanese,$$,Bronxdale,07:00,21:00,0,FALSE
+48,SYNERGY Restuarant,Indian,$,Midtown,08:00,21:00,0,TRUE
+49,CROSS-GROUP Restuarant,Ainu,$$$,Rose Hill,11:00,14:00,0,FALSE
+50,REVERSE-ENGINEERED Restuarant,Sami,$$$,Roosevelt Island,09:00,17:00,0,TRUE
+51,EXCLUSIVE Restuarant,Hyderabad,$,St. Albans,10:00,14:00,0,TRUE
+52,NEUTRAL Restuarant,Anglo-Indian,$,Crown Heights,09:00,18:00,0,TRUE
+53,SECURED Restuarant,cuisine,$$$,Dutch Kills,13:00,18:00,0,FALSE
+54,METHODOLOGY Restuarant,Udupi,$,Oakwood,09:00,15:00,0,FALSE
+55,CONFIGURABLE Restuarant,Chinese,$$,Arden Heights,12:00,20:00,0,TRUE
+56,INTEGRATED Restuarant,Assyrian,$$$,Ozone Park,07:00,20:00,0,TRUE
+57,ALLIANCE Restuarant,Islamic,$$,Richmond Valley,09:00,16:00,0,FALSE
+58,HEURISTIC Restuarant,Andhra,$$,Fordham,11:00,17:00,0,TRUE
+59,INTANGIBLE Restuarant,Rajasthani,$,Washington Heights,06:00,20:00,0,TRUE
+60,CLONED Restuarant,Parsi,$,Pleasant Plains,08:00,19:00,0,TRUE
+61,ZERO DEFECT Restuarant,Indian,$,Grant City,11:00,17:00,0,FALSE
+62,LOGISTICAL Restuarant,Indian,$$$,Hunters Point,12:00,22:00,0,FALSE
+63,SEAMLESS Restuarant,Bengali,$$$,Edgemere,07:00,16:00,1,FALSE
+64,INFO-MEDIARIES Restuarant,Ukrainian,$$,Queens Village,08:00,19:00,0,TRUE
+65,PRODUCT Restuarant,Odia,$$,Bayswater,11:00,20:00,0,TRUE
+66,MAXIMIZED Restuarant,Chinese,$$,Corona,10:00,15:00,0,FALSE
+67,SUCCESS Restuarant,Chinese,$$,Plum Beach,09:00,20:00,0,FALSE
+68,HUMAN-RESOURCE Restuarant,Chinese,$,College Point,08:00,14:00,0,FALSE
+69,GRASS-ROOTS Restuarant,Cypriot,$,Fish Bay,12:00,16:00,0,TRUE
+70,DATA-WAREHOUSE Restuarant,Maharashtrian,$$,Allerton,06:00,22:00,0,TRUE
+71,TOOLSET Restuarant,QuÃ©bÃ©cois,$$,Claremont,08:00,16:00,0,TRUE
+72,PARADIGM Restuarant,Zanzibari,$$,Lower East Side,13:00,15:00,1,TRUE
+73,ZERO TOLERANCE Restuarant,Crimean,$$$,Mapleton,10:00,16:00,0,TRUE
+74,STRATEGY Restuarant,Malay,$$,Sutton Place,12:00,23:00,0,TRUE
+75,SOLUTION-ORIENTED Restuarant,Peruvian,$,Rockaway Park,10:00,18:00,0,FALSE
+76,PHASED Restuarant,Tatar,$$$,Vinegar Hill,11:00,22:00,0,FALSE
+77,TIME-FRAME Restuarant,Chinese,$,Sunnyside,09:00,18:00,0,TRUE
+78,METHODOLOGY Restuarant,Anglo-Indian,$$$,Morningside Heights,10:00,18:00,0,FALSE
+79,COHERENT Restuarant,Korean,$,Financial District,14:00,21:00,1,TRUE
+80,THROUGHPUT Restuarant,Keralite,$$$,Flatbush,06:00,20:00,0,FALSE
+81,UPWARD-TRENDING Restuarant,Cypriot,$,Grasmere,09:00,20:00,0,TRUE
+82,GLOBAL Restuarant,cuisine,$,Melrose,10:00,20:00,0,FALSE
+83,INVERSE Restuarant,Singaporean,$,Fresh Meadows,14:00,22:00,1,TRUE
+84,FRONT-LINE Restuarant,Irish,$$,Richmond Valley,12:00,15:00,0,TRUE
+85,RE-ENGINEERED Restuarant,Brazilian,$,Van Nest,11:00,19:00,1,TRUE
+86,MULTI-STATE Restuarant,Ainu,$$,East Village,11:00,17:00,0,TRUE
+87,INTERACTIVE Restuarant,Arab,$$,Long Island City,14:00,14:00,0,TRUE
+88,LOCAL AREA NETWORK Restuarant,Andhra,$,Fulton Ferry,12:00,17:00,0,FALSE
+89,ORGANIC Restuarant,Vietnamese,$$$,Stapleton,12:00,20:00,0,TRUE
+90,OPEN ARCHITECTURE Restuarant,Indonesian,$,Liberty Park,07:00,21:00,0,FALSE
+91,INTERACTIVE Restuarant,Kurdish,$,Brooklyn Navy Yard,11:00,23:00,0,FALSE
+92,CONTEXT-SENSITIVE Restuarant,Cantonese,$$$,College Point,07:00,22:00,0,TRUE
+93,RIGHT-SIZED Restuarant,Bulgarian,$,Highland Park,07:00,15:00,0,FALSE
+94,SWITCHABLE Restuarant,Punjabi,$$,Cobble Hill,14:00,19:00,0,FALSE
+95,WEBSITE Restuarant,Arab,$,Norwood,09:00,21:00,0,FALSE
+96,COHERENT Restuarant,Chinese,$$,Harding Park,12:00,22:00,0,TRUE
+97,COHESIVE Restuarant,Taiwanese,$$$,Queensbridge,08:00,21:00,0,TRUE
+98,FRAMEWORK Restuarant,Lebanese,$,Baychester,13:00,00:00,0,TRUE
+99,ZERO TOLERANCE Restuarant,Indian,$$$,Concord,08:00,19:00,0,TRUE
+100,OBJECT-ORIENTED Restuarant,cuisine,$$,Briarwood,09:00,17:00,0,FALSE
+101,DEMAND-DRIVEN Restuarant,Chinese,$$,Concord,12:00,17:00,0,TRUE
+102,SECONDARY Restuarant,Bulgarian,$$,Two Bridges,08:00,18:00,0,FALSE
+103,REVERSE-ENGINEERED Restuarant,Mughal,$$,Sunset Park,13:00,17:00,0,FALSE
+104,RECIPROCAL Restuarant,Chechen,$,Queensboro Hill,07:00,22:00,0,FALSE
+105,DISINTERMEDIATE Restuarant,Ethiopian,$$,Auburndale,08:00,21:00,0,FALSE
+106,24 HOUR Restuarant,Japanese,$,Ocean Hill,07:00,21:00,0,TRUE
+107,RE-ENGINEERED Restuarant,Gujarati,$,Roosevelt Island,10:00,23:00,0,FALSE
+108,ORGANIZED Restuarant,Peranakan,$,Throgs Neck,11:00,15:00,0,FALSE
+109,WORKFORCE Restuarant,Soviet,$$$,Financial District,14:00,20:00,0,FALSE
+110,INTANGIBLE Restuarant,Malaysian,$$,Park Slope,07:00,16:00,0,FALSE
+111,LEADING EDGE Restuarant,Zambian,$$,Claremont,10:00,19:00,0,FALSE
+112,FUTURE-PROOFED Restuarant,Mordovian,$$,Corona,07:00,16:00,0,FALSE
+113,WEB-ENABLED Restuarant,Italian-American,$,Hudson Yards,09:00,17:00,0,FALSE
+114,STREAMLINED Restuarant,Slovenian,$,College Point,09:00,21:00,0,TRUE
+115,COMPATIBLE Restuarant,Portuguese,$$,Canarsie,11:00,17:00,0,FALSE
+116,CAPABILITY Restuarant,Dutch,$,Fordham,08:00,21:00,0,FALSE
+117,ADAPTER Restuarant,Native,$$,North Corona,11:00,18:00,0,FALSE
+118,PERSEVERING Restuarant,Circassian,$$$,Stuyvesant Town,13:00,18:00,0,TRUE
+119,FRAME Restuarant,Estonian,$$$,Beechhurst,12:00,20:00,0,TRUE
+120,ORCHESTRATION Restuarant,Creole,$$$,Bulls Head,08:00,21:00,0,TRUE
+121,INSTALLATION Restuarant,Indian,$$,Tribeca,11:00,19:00,1,FALSE
+122,NEEDS-BASED Restuarant,cuisine,$$,Bruckner,12:00,20:00,0,FALSE
+123,APPROACH Restuarant,Irish,$,Elmhurst,12:00,21:00,0,TRUE
+124,OPEN-SOURCE Restuarant,Anglo-Indian,$,Greenridge,10:00,17:00,0,FALSE
+125,WORKFORCE Restuarant,Arab,$$$,Wakefield,08:00,18:00,0,TRUE
+126,SECURED LINE Restuarant,Bengali,$$$,Highbridge,09:00,18:00,0,FALSE
+127,STANDARDIZATION Restuarant,Estonian,$$$,Norwood,13:00,18:00,0,FALSE
+128,BENCHMARK Restuarant,Arab,$,Dumbo,09:00,21:00,0,FALSE
+129,INCREMENTAL Restuarant,Mexican,$,Richmond Hill,07:00,15:00,0,FALSE
+130,ERGONOMIC Restuarant,Indian,$$,Ocean Parkway,12:00,18:00,0,TRUE
+131,IMPLEMENTED Restuarant,Taiwanese,$$$,Williamsburg,11:00,14:00,0,FALSE
+132,ASYNCHRONOUS Restuarant,Somali,$$,Auburndale,10:00,19:00,0,TRUE
+133,MULTIMEDIA Restuarant,American,$$,Baychester,06:00,19:00,0,FALSE
+134,EXPANDED Restuarant,Indian,$,Ditmas Village,08:00,00:00,0,FALSE
+135,24/7 Restuarant,Mexican,$$,Chinatown,07:00,22:00,0,TRUE
+136,HUMAN-RESOURCE Restuarant,Pennsylvania,$$,Greenpoint,10:00,16:00,0,TRUE
+137,SWITCHABLE Restuarant,Bengali,$,Sunnyside,10:00,20:00,0,FALSE
+138,UNIFORM Restuarant,Mennonite,$$$,St. George,08:00,18:00,0,FALSE
+139,DEVOLVED Restuarant,Anglo-Indian,$$,Elmhurst,08:00,19:00,0,TRUE
+140,OPEN-SOURCE Restuarant,Czech,$$,Weeksville,10:00,23:00,0,FALSE
+141,CLIENT-SERVER Restuarant,Chinese,$$$,New Hyde Park,10:00,19:00,0,TRUE
+142,CONGLOMERATION Restuarant,Korean,$,Fish Bay,06:00,23:00,0,FALSE
+143,MULTI-CHANNELLED Restuarant,Malaysian,$$,West Farms,12:00,18:00,0,TRUE
+144,CORE Restuarant,Singaporean,$$,Shore Acres,12:00,19:00,0,FALSE
+145,SUPPORT Restuarant,Singaporean,$$,Marble Hill,07:00,15:00,0,FALSE
+146,FOCUSED Restuarant,Catholic,$$,Bergen Beach,09:00,19:00,0,TRUE
+147,DISCRETE Restuarant,Awadhi,$,Sheepshead Bay,13:00,19:00,0,FALSE
+148,SOLUTION-ORIENTED Restuarant,Ethiopian,$$$,Crotona Park,10:00,22:00,0,TRUE
+149,TASK-FORCE Restuarant,Goan,$,Kensington,08:00,00:00,0,FALSE
+150,PARALLELISM Restuarant,Catholic,$$$,Randall Manor,11:00,20:00,0,TRUE
+151,STRATEGY Restuarant,Malaysian,$,Flatlands,10:00,22:00,0,TRUE
+152,PRODUCTIVITY Restuarant,Tatar,$,Astoria Heights,10:00,21:00,0,TRUE
+153,PERSEVERING Restuarant,Odia,$$$,Gravesend,10:00,23:00,0,FALSE
+154,VISION-ORIENTED Restuarant,Taiwanese,$,Plum Beach,09:00,22:00,0,TRUE
+155,FRONT-LINE Restuarant,Gujarati,$$$,Wakefield,06:00,17:00,0,FALSE
+156,MAXIMIZED Restuarant,Indian,$$,Long Island City,10:00,18:00,0,FALSE
+157,USER-FRIENDLY Restuarant,Latvian,$,Sunset Park,12:00,17:00,0,TRUE
+158,FRESH-THINKING Restuarant,Tamil,$,Cobble Hill,13:00,22:00,0,FALSE
+159,NEEDS-BASED Restuarant,Filipino,$,City Line,08:00,17:00,0,TRUE
+160,MOBILE Restuarant,Pashtun,$,Kingsbridge,11:00,23:00,0,FALSE
+161,HYBRID Restuarant,Berber,$$$,Wingate,08:00,16:00,0,TRUE
+162,RESPONSIVE Restuarant,Georgian,$$,Fresh Pond,11:00,18:00,0,FALSE
+163,ENCOMPASSING Restuarant,Tatar,$$$,Richmond Hill,10:00,17:00,0,FALSE
+164,FLEXIBILITY Restuarant,Sindhi,$$$,Fieldston,08:00,22:00,0,FALSE
+165,CIRCUIT Restuarant,Pennsylvania,$,Bronxdale,13:00,15:00,0,FALSE
+166,ZERO ADMINISTRATION Restuarant,Native,$,Turtle Bay,11:00,22:00,0,TRUE
+167,FORECAST Restuarant,Albanian,$$$,Lower East Side,10:00,19:00,0,FALSE
+168,COHESIVE Restuarant,Caribbean,$$,Park Slope,07:00,00:00,0,FALSE
+169,PORTAL Restuarant,Buddhist,$$$,Brookville,12:00,15:00,0,FALSE
+170,CONTEXT-SENSITIVE Restuarant,Lebanese,$$$,Van Nest,06:00,23:00,0,FALSE
+171,FULLY-CONFIGURABLE Restuarant,Hyderabad,$$,Murray Hill,10:00,18:00,0,FALSE
+172,MULTI-STATE Restuarant,Tamil,$,Washington Heights,14:00,17:00,0,FALSE
+173,OPTIMIZING Restuarant,cuisine,$$$,Highbridge,11:00,22:00,0,TRUE
+174,PRODUCTIVITY Restuarant,Georgian,$$$,Sutton Place,10:00,20:00,0,FALSE
+175,APPROACH Restuarant,Crimean,$$$,East Harlem,09:00,15:00,0,FALSE
+176,ERGONOMIC Restuarant,cuisine,$$$,Utopia,10:00,17:00,0,FALSE
+177,ANALYZING Restuarant,Udupi,$$$,Willets Point,11:00,21:00,0,FALSE
+178,IMPLEMENTATION Restuarant,Ukrainian,$,South Beach,08:00,19:00,0,TRUE
+179,USER-FRIENDLY Restuarant,Mexican,$,Hudson Yards,06:00,19:00,0,TRUE
+180,HEURISTIC Restuarant,German,$$,Spuyten Duyvil,06:00,19:00,0,FALSE
+181,STATIC Restuarant,Berber,$$$,Belle Harbor,07:00,15:00,0,TRUE
+182,MAXIMIZED Restuarant,Egyptian,$$$,Rugby,13:00,23:00,0,TRUE
+183,WORKFORCE Restuarant,Sri,$$,Brookville,07:00,19:00,0,FALSE
+184,UP-SIZED Restuarant,Odia,$$$,Kew Gardens Hills,12:00,16:00,0,TRUE
+185,MULTI-LATERAL Restuarant,Peranakan,$$$,Mount Hope,10:00,23:00,0,FALSE
+186,DISCRETE Restuarant,Thai,$$$,Breezy Point,08:00,15:00,0,FALSE
+187,BI-DIRECTIONAL Restuarant,Peruvian,$$,Bay Ridge,06:00,18:00,0,TRUE
+188,MAXIMIZED Restuarant,Belarusian,$$,Annadale,08:00,22:00,0,TRUE
+189,REALIGNED Restuarant,Azerbaijani,$,Maspeth,08:00,19:00,0,FALSE
+190,SYNERGIZED Restuarant,Kazakh,$,Turtle Bay,10:00,21:00,1,TRUE
+191,NEURAL-NET Restuarant,Bangladeshi,$$,Beechhurst,10:00,16:00,0,FALSE
+192,SYSTEM ENGINE Restuarant,Chinese,$,Stapleton,09:00,18:00,0,FALSE
+193,PROGRAMMABLE Restuarant,Indian,$$$,Red Hook,13:00,16:00,0,TRUE
+194,STRUCTURE Restuarant,Italian-American,$$$,Kips Bay,13:00,21:00,0,TRUE
+195,INTERMEDIATE Restuarant,Sri,$$,Rosebank,11:00,20:00,0,FALSE
+196,KNOWLEDGE BASE Restuarant,Bashkir,$$,Bedford Park,12:00,16:00,0,TRUE
+197,BENCHMARK Restuarant,Eritrean,$$,Hunts Point,10:00,23:00,0,FALSE
+198,MULTI-LATERAL Restuarant,cuisine,$,West Village,08:00,21:00,0,TRUE
+199,GRAPHICAL USER INTERFACE Restuarant,Albanian,$,Flatbush,11:00,21:00,0,TRUE
+200,CAPABILITY Restuarant,Mordovian,$$$,Charleston,09:00,15:00,0,TRUE
+201,SECURED Restuarant,Russian,$$$,Van Nest,09:00,00:00,1,FALSE
+202,REDUCED Restuarant,Mexican,$$,Brookville,09:00,16:00,0,FALSE
+203,CONTEXT-SENSITIVE Restuarant,Mordovian,$$$,Woodhaven,10:00,23:00,0,FALSE
+204,NATIONAL Restuarant,Sami,$,Mount Hope,08:00,19:00,1,TRUE
+205,ALGORITHM Restuarant,Estonian,$$,Howard Beach,08:00,18:00,0,TRUE
+206,PROACTIVE Restuarant,Czech,$$,Todt Hill,07:00,19:00,0,TRUE
+207,HIGH-LEVEL Restuarant,Indonesian,$$$,Lincoln Square,11:00,00:00,0,TRUE
+208,GRID-ENABLED Restuarant,Laotian,$$$,Richmond Hill,07:00,17:00,0,FALSE
+209,6TH GENERATION Restuarant,Zambian,$$,Wakefield,14:00,18:00,0,FALSE
+210,STRUCTURE Restuarant,Andhra,$$,Kings Bay,13:00,14:00,0,FALSE
+211,DISTRIBUTED Restuarant,Texan,$$,Arlington,10:00,19:00,0,FALSE
+212,COLLABORATION Restuarant,Soviet,$$$,Rosebank,13:00,21:00,1,TRUE
+213,HIGH-LEVEL Restuarant,Lithuanian,$,Graniteville,07:00,16:00,0,FALSE
+214,VALUE-ADDED Restuarant,Filipino,$$$,Bedford-Stuyvesant,09:00,16:00,0,FALSE
+215,PRE-EMPTIVE Restuarant,Awadhi,$$,Marble Hill,09:00,19:00,0,TRUE
+216,SUCCESS Restuarant,Brazilian,$,Willets Point,12:00,22:00,0,FALSE
+217,REGIONAL Restuarant,Brazilian,$$,Morris Heights,07:00,21:00,0,FALSE
+218,CONTEXTUALLY-BASED Restuarant,Slovenian,$$,Cypress Hills,10:00,22:00,1,FALSE
+219,MULTI-LATERAL Restuarant,Hyderabad,$$,Great Kills,06:00,18:00,0,TRUE
+220,UPWARD-TRENDING Restuarant,Ainu,$$$,Highbridge,09:00,23:00,0,TRUE
+221,PUBLIC-KEY Restuarant,Indonesian,$,Dumbo,11:00,16:00,0,FALSE
+222,SCALABLE Restuarant,Sindhi,$,Clason Point,08:00,21:00,0,FALSE
+223,FLEXIBILITY Restuarant,Berber,$$$,Midtown,12:00,20:00,0,TRUE
+224,MATRICES Restuarant,Lithuanian,$$,Queensboro Hill,14:00,23:00,0,FALSE
+225,OBJECT-BASED Restuarant,Albanian,$,Liberty Park,12:00,19:00,0,TRUE
+226,ABILITY Restuarant,Crimean,$$,East Village,11:00,15:00,0,FALSE
+227,EXTENDED Restuarant,American,$$,Williamsbridge,08:00,00:00,0,TRUE
+228,DE-ENGINEERED Restuarant,Cajun,$,University Heights,13:00,16:00,0,TRUE
+229,ARRAY Restuarant,Sami,$$,Hollis Hills,09:00,15:00,0,TRUE
+230,MAXIMIZED Restuarant,Punjabi,$,Fieldston,10:00,18:00,0,TRUE
+231,MATRIX Restuarant,Arab,$,Bayswater,11:00,19:00,0,TRUE
+232,SUCCESS Restuarant,Awadhi,$$,Tudor City,11:00,20:00,0,FALSE
+233,EXPLICIT Restuarant,Indian,$$,Baychester,09:00,22:00,0,FALSE
+234,HEURISTIC Restuarant,Laotian,$,Breezy Point,13:00,16:00,0,FALSE
+235,MULTI-CHANNELLED Restuarant,Jamaican,$$,Floral Park,11:00,23:00,0,TRUE
+236,MOBILE Restuarant,Zambian,$$,Arrochar,07:00,15:00,0,FALSE
+237,CIRCUIT Restuarant,Arab,$,Holliswood,11:00,20:00,0,TRUE
+238,PARADIGM Restuarant,Chinese,$,Long Island City,07:00,14:00,0,TRUE
+239,CONCEPT Restuarant,Cantonese,$$,Kips Bay,11:00,22:00,0,FALSE
+240,CONTEXT-SENSITIVE Restuarant,Chinese,$,Tompkinsville,13:00,19:00,0,FALSE
+241,NATIONAL Restuarant,cuisine,$,South Beach,14:00,15:00,0,TRUE
+242,DISINTERMEDIATE Restuarant,Gujarati,$,Todt Hill,06:00,20:00,0,FALSE
+243,MODEL Restuarant,Polish,$,Queensboro Hill,06:00,14:00,0,TRUE
+244,CONCEPT Restuarant,Portuguese,$$$,Hudson Yards,12:00,22:00,0,FALSE
+245,VALUE-ADDED Restuarant,Indian,$$$,Yorkville,12:00,15:00,0,TRUE
+246,METHODICAL Restuarant,cuisine,$$$,Maspeth,07:00,15:00,0,TRUE
+247,LOCAL AREA NETWORK Restuarant,Chechen,$$$,Morris Heights,12:00,22:00,0,TRUE
+248,COMPLEXITY Restuarant,Belarusian,$$,South Beach,10:00,22:00,0,TRUE
+249,FOCUS GROUP Restuarant,Tatar,$$,Sheepshead Bay,07:00,15:00,0,FALSE
+250,ENCOMPASSING Restuarant,Sami,$,Flatlands,08:00,19:00,0,TRUE
+251,DATABASE Restuarant,Buddhist,$,Shore Acres,11:00,23:00,0,FALSE
+252,EXPANDED Restuarant,Maharashtrian,$$,Homecrest,10:00,14:00,0,FALSE
+253,REDUCED Restuarant,Spanish,$$,Whitestone,08:00,20:00,0,TRUE
+254,BALANCED Restuarant,Mexican,$$$,Unionport,11:00,20:00,1,TRUE
+255,TASK-FORCE Restuarant,Brazilian,$,Marine Park,13:00,18:00,0,TRUE
+256,LEADING EDGE Restuarant,Ukrainian,$$,Bronx River,06:00,18:00,0,FALSE
+257,AMELIORATED Restuarant,Indian,$$$,Spanish Harlem,08:00,23:00,0,TRUE
+258,ROBUST Restuarant,Latvian,$$,Mill Island,13:00,23:00,0,TRUE
+259,REACTIVE Restuarant,cuisine,$$$,Elmhurst,10:00,23:00,0,FALSE
+260,ZERO ADMINISTRATION Restuarant,Jamaican,$$$,Astoria,06:00,19:00,0,FALSE
+261,HELP-DESK Restuarant,Mennonite,$$$,East Flushing,11:00,22:00,0,FALSE
+262,SYSTEM-WORTHY Restuarant,Cajun,$$$,Fort Greene,13:00,20:00,0,TRUE
+263,ABILITY Restuarant,German,$$$,Rosebank,12:00,20:00,0,TRUE
+264,FRESH-THINKING Restuarant,Inuit,$$$,Edenwald,09:00,16:00,0,TRUE
+265,SUPERSTRUCTURE Restuarant,Lithuanian,$,Ocean Breeze,09:00,17:00,0,TRUE
+266,USER-CENTRIC Restuarant,Italian,$$$,Concourse,09:00,22:00,0,FALSE
+267,ADAPTIVE Restuarant,Serbian,$$$,Upper West Side,11:00,15:00,0,FALSE
+268,ARRAY Restuarant,Yamal,$$,West Brighton,10:00,14:00,0,FALSE
+269,MIGRATION Restuarant,Japanese,$$,Fort Greene,09:00,22:00,0,TRUE
+270,ECO-CENTRIC Restuarant,Jamaican,$$,Seaside,08:00,19:00,0,FALSE
+271,CONCEPT Restuarant,Buddhist,$$$,Clinton Hill,08:00,22:00,0,TRUE
+272,THROUGHPUT Restuarant,Malaysian,$$,Ocean Parkway,07:00,15:00,0,TRUE
+273,SEAMLESS Restuarant,Parsi,$$$,Edgemere,10:00,16:00,0,FALSE
+274,POLICY Restuarant,Irish,$,Ditmas Village,08:00,00:00,0,TRUE
+275,TRIPLE-BUFFERED Restuarant,Indian,$$,Kew Gardens,12:00,16:00,0,TRUE
+276,APPROACH Restuarant,Ethiopian,$,Wakefield,07:00,15:00,0,TRUE
+277,LOCAL Restuarant,Hyderabad,$$,Brownsville,08:00,19:00,1,FALSE
+278,CUSTOMER LOYALTY Restuarant,Anglo-Indian,$$,Tompkinsville,08:00,17:00,0,TRUE
+279,OPTIMIZED Restuarant,Latvian,$$,Rossville,08:00,18:00,0,TRUE
+280,SYNCHRONISED Restuarant,Tamil,$$$,Bayside,13:00,16:00,0,TRUE
+281,STANDARDIZATION Restuarant,Sami,$,Rugby,11:00,19:00,0,FALSE
+282,TASK-FORCE Restuarant,Malaysian,$,Concourse Village,07:00,15:00,1,FALSE
+283,CUSTOMER LOYALTY Restuarant,Thai,$$$,Shore Acres,09:00,16:00,0,FALSE
+284,MATRIX Restuarant,Filipino,$$$,Howard Beach,13:00,16:00,0,FALSE
+285,TERTIARY Restuarant,Parsi,$$$,Annadale,12:00,23:00,0,TRUE
+286,DE-ENGINEERED Restuarant,Spanish,$$$,Alphabet City,08:00,23:00,0,FALSE
+287,CUSTOMER-FOCUSED Restuarant,Bulgarian,$$$,Floral Park,06:00,14:00,0,FALSE
+288,VALUE-ADDED Restuarant,Creole,$,Fulton Ferry,14:00,16:00,0,FALSE
+289,EMPOWERING Restuarant,Armenian,$$,Mill Basin,09:00,22:00,0,FALSE
+290,NEEDS-BASED Restuarant,Zanzibari,$,East Gravesend,14:00,15:00,0,TRUE
+291,SCALABLE Restuarant,Persian,$$$,Malba,10:00,17:00,0,FALSE
+292,GRID-ENABLED Restuarant,Brazilian,$$,Kensington,11:00,17:00,0,FALSE
+293,SECONDARY Restuarant,Russian,$$$,Richmond Valley,08:00,23:00,0,TRUE
+294,HEURISTIC Restuarant,Louisiana,$$,Upper West Side,14:00,21:00,0,FALSE
+295,DEVOLVED Restuarant,Korean,$,Kensington,10:00,21:00,0,FALSE
+296,CLEAR-THINKING Restuarant,Bashkir,$,Jamaica Estates,11:00,20:00,1,TRUE
+297,USER-CENTRIC Restuarant,Goan,$,Wakefield,12:00,20:00,0,TRUE
+298,REALIGNED Restuarant,Somali,$$,College Point,06:00,22:00,0,FALSE
+299,BENCHMARK Restuarant,Chechen,$$,Turtle Bay,12:00,22:00,0,TRUE
+300,MODEL Restuarant,Cantonese,$,New Dorp,13:00,20:00,0,TRUE
+301,PROFOUND Restuarant,Native,$$$,Upper East Side,12:00,16:00,0,TRUE
+302,POLARISED Restuarant,French,$,Bedford-Stuyvesant,10:00,23:00,0,TRUE
+303,OPEN-SOURCE Restuarant,Slovak,$$,Fish Bay,12:00,18:00,0,TRUE
+304,FORECAST Restuarant,Chinese,$,Oakland Gardens,06:00,18:00,0,FALSE
+305,ABILITY Restuarant,Mughal,$,Mariners Harbor,10:00,18:00,0,TRUE
+306,SUCCESS Restuarant,French,$,Steinway,14:00,16:00,0,TRUE
+307,SECURED Restuarant,Inuit,$$$,Little Italy,13:00,21:00,0,TRUE
+308,DIGITIZED Restuarant,Mughal,$,Bayside,07:00,16:00,0,FALSE
+309,FRONT-LINE Restuarant,Lebanese,$$,Kips Bay,12:00,16:00,0,FALSE
+310,ENCOMPASSING Restuarant,Balochi,$$,St. George,12:00,18:00,0,FALSE
+311,FRAMEWORK Restuarant,Italian,$$$,Ocean Parkway,07:00,18:00,0,TRUE
+312,DIRECTIONAL Restuarant,Thai,$$,Bay Terrace,08:00,15:00,0,FALSE
+313,EXTENDED Restuarant,Jamaican,$$,Grant City,11:00,22:00,1,FALSE
+314,NEUTRAL Restuarant,Parsi,$,Little Italy,09:00,19:00,0,TRUE
+315,PROJECTION Restuarant,Odia,$$$,Brooklyn Navy Yard,08:00,20:00,0,TRUE
+316,ADAPTER Restuarant,Indonesian,$,Grasmere,11:00,23:00,0,TRUE
+317,STABLE Restuarant,Malaysian,$$$,West Village,13:00,19:00,1,TRUE
+318,SOLUTION-ORIENTED Restuarant,Malaysian,$$,Red Hook,08:00,23:00,0,TRUE
+319,SCALABLE Restuarant,Chinese,$,East Flushing,13:00,17:00,0,TRUE
+320,PERSEVERING Restuarant,cuisine,$,West Farms,13:00,23:00,1,FALSE
+321,OPTIMIZING Restuarant,Rajasthani,$$$,Edenwald,07:00,23:00,0,TRUE
+322,UNIVERSAL Restuarant,Romanian,$$,Lindenwood,10:00,23:00,1,TRUE
+323,UP-SIZED Restuarant,Kazakh,$$,Hell's Kitchen,06:00,20:00,0,TRUE
+324,CROSS-PLATFORM Restuarant,Chinese,$,Todt Hill,08:00,16:00,0,TRUE
+325,VALUE-ADDED Restuarant,Keralite,$$$,New Springville,09:00,20:00,1,FALSE
+326,SUCCESS Restuarant,Creole,$,East Harlem,14:00,00:00,0,TRUE
+327,UPWARD-TRENDING Restuarant,Odia,$$,Arverne,13:00,23:00,0,TRUE
+328,ALGORITHM Restuarant,cuisine,$,Flushing,07:00,16:00,0,FALSE
+329,ASYNCHRONOUS Restuarant,Tamil,$$,Co-op City,09:00,16:00,0,TRUE
+330,ANALYZER Restuarant,Singaporean,$$$,Pomonok Houses,07:00,14:00,1,TRUE
+331,COMPOSITE Restuarant,Peranakan,$$$,Woodlawn Heights,13:00,17:00,0,TRUE
+332,ENCRYPTION Restuarant,Italian-American,$$$,Sunnyside Gardens,10:00,22:00,0,FALSE
+333,MULTI-LATERAL Restuarant,Inuit,$,Clifton,09:00,20:00,1,TRUE
+334,PRE-EMPTIVE Restuarant,French,$$,Elmhurst,10:00,22:00,0,TRUE
+335,DIGITIZED Restuarant,Peranakan,$,Waterside Plaza,08:00,21:00,0,FALSE
+336,THROUGHPUT Restuarant,Tatar,$$$,Howard Beach,06:00,17:00,0,FALSE
+337,CONTINGENCY Restuarant,English,$,Willets Point,11:00,22:00,0,TRUE
+338,MANAGED Restuarant,Slovak,$,Queens Village,10:00,19:00,0,FALSE
+339,NEURAL-NET Restuarant,Rajasthani,$,Olinville,09:00,23:00,1,TRUE
+340,USER-FACING Restuarant,cuisine,$$$,Woodrow,10:00,15:00,0,FALSE
+341,DATABASE Restuarant,Korean,$,Bathgate,08:00,21:00,0,FALSE
+342,OPTIMIZED Restuarant,Romanian,$$,Liberty Park,07:00,20:00,0,FALSE
+343,INSTRUCTION SET Restuarant,Chinese,$$$,Bedford Park,12:00,19:00,0,TRUE
+344,INFRASTRUCTURE Restuarant,cuisine,$$$,Kingsbridge Heights,09:00,17:00,0,TRUE
+345,CLIENT-DRIVEN Restuarant,New,$$$,NoHo,07:00,18:00,0,FALSE
+346,FAULT-TOLERANT Restuarant,New,$$$,Greenridge,12:00,19:00,0,TRUE
+347,ACTUATING Restuarant,Malaysian,$,Midwood,09:00,17:00,1,TRUE
+348,NON-VOLATILE Restuarant,Italian,$,Queensboro Hill,13:00,18:00,1,FALSE
+349,TANGIBLE Restuarant,cuisine,$$,Steinway,07:00,20:00,0,FALSE
+350,OPTIONAL Restuarant,Persian,$$,Sunnyside,08:00,16:00,0,FALSE
+351,BENCHMARK Restuarant,Bulgarian,$$$,Gerritsen Beach,09:00,23:00,0,TRUE
+352,TERTIARY Restuarant,Indian,$,Midtown,08:00,19:00,0,FALSE
+353,MULTI-TASKING Restuarant,British,$$$,Hunts Point,14:00,16:00,0,TRUE
+354,STANDARDIZATION Restuarant,Danish,$$$,Crown Heights,10:00,20:00,0,FALSE
+355,ECO-CENTRIC Restuarant,Mughal,$$$,University Heights,10:00,23:00,1,FALSE
+356,24 HOUR Restuarant,Islamic,$,Wingate,09:00,21:00,0,TRUE
+357,VERSATILE Restuarant,Louisiana,$$$,SoHo,11:00,18:00,1,FALSE
+358,INTUITIVE Restuarant,Karnataka,$$$,Williamsbridge,09:00,16:00,0,TRUE
+359,MULTIMEDIA Restuarant,Portuguese,$$,Georgetown,13:00,18:00,1,FALSE
+360,POLARISED Restuarant,Indian,$$$,City Island,12:00,17:00,0,TRUE
+361,INTANGIBLE Restuarant,Malaysian,$$,Van Cortlandt Village,10:00,20:00,0,FALSE
+362,ADAPTER Restuarant,Maharashtrian,$$,Dyker Heights,10:00,22:00,0,TRUE
+363,ACTUATING Restuarant,Nepalese,$$$,Kew Gardens,12:00,21:00,0,FALSE
+364,PUBLIC-KEY Restuarant,Circassian,$$$,Upper East Side,14:00,18:00,0,FALSE
+365,ALLIANCE Restuarant,Tatar,$,Ravenswood,13:00,21:00,0,TRUE
+366,NEEDS-BASED Restuarant,Georgian,$,Westerleigh,11:00,17:00,0,TRUE
+367,SUCCESS Restuarant,Nepalese,$$,North Corona,08:00,00:00,0,TRUE
+368,MOTIVATING Restuarant,Native,$$,Sunset Park,07:00,16:00,0,FALSE
+369,QUALITY-FOCUSED Restuarant,Armenian,$$$,East Flushing,09:00,15:00,0,FALSE
+370,STRATEGY Restuarant,Bulgarian,$,Mill Basin,09:00,20:00,1,FALSE
+371,CUSTOMIZABLE Restuarant,Circassian,$,Springfield Gardens,11:00,18:00,0,TRUE
+372,COMPATIBLE Restuarant,Belarusian,$$,Midwood,13:00,22:00,0,TRUE
+373,CROSS-PLATFORM Restuarant,American,$$$,Prince's Bay,09:00,15:00,1,TRUE
+374,DEDICATED Restuarant,Parsi,$,Jamaica,09:00,19:00,0,TRUE
+375,IMPLEMENTATION Restuarant,Malaysian,$$,Clinton,07:00,23:00,0,FALSE
+376,OBJECT-BASED Restuarant,Karnataka,$$,Fulton Mall,12:00,19:00,0,FALSE
+377,EMULATION Restuarant,Bengali,$,Stuyvesant Town,08:00,20:00,0,FALSE
+378,MOTIVATING Restuarant,Laotian,$$,New Dorp,13:00,18:00,1,TRUE
+379,WEBSITE Restuarant,Somali,$,East Harlem,09:00,20:00,0,FALSE
+380,RESPONSIVE Restuarant,South,$$$,Roosevelt Island,11:00,22:00,0,FALSE
+381,DEMAND-DRIVEN Restuarant,Goan,$$$,East Tremont,14:00,23:00,0,TRUE
+382,RE-ENGINEERED Restuarant,Chechen,$$$,Olinville,11:00,19:00,0,TRUE
+383,ORGANIC Restuarant,Irish,$,Little Neck,12:00,20:00,0,FALSE
+384,DEMAND-DRIVEN Restuarant,cuisine,$,Bensonhurst,08:00,20:00,0,TRUE
+385,PROJECTION Restuarant,Portuguese,$,Bensonhurst,11:00,21:00,0,TRUE
+386,DEMAND-DRIVEN Restuarant,Assyrian,$$,Gravesend,11:00,23:00,0,FALSE
+387,TASK-FORCE Restuarant,Pakistani,$$,Sea Gate,11:00,19:00,0,TRUE
+388,CLIENT-DRIVEN Restuarant,Sami,$,New Hyde Park,08:00,17:00,0,FALSE
+389,ORGANIZED Restuarant,Bashkir,$$,Lindenwood,14:00,23:00,0,TRUE
+390,APPLICATION Restuarant,Estonian,$$$,Middle Village,08:00,14:00,0,TRUE
+391,GLOBAL Restuarant,Chinese,$$$,East Harlem,08:00,14:00,0,FALSE
+392,UTILISATION Restuarant,Belarusian,$$$,Corona,07:00,19:00,0,TRUE
+393,HOLISTIC Restuarant,cuisine,$,Locust Point,14:00,22:00,0,TRUE
+394,SECONDARY Restuarant,German,$$$,Ditmas Village,11:00,00:00,0,FALSE
+395,ARCHITECTURE Restuarant,cuisine,$$$,Hunts Point,10:00,23:00,0,FALSE
+396,DATABASE Restuarant,Mangalorean,$$$,Fort Greene,06:00,17:00,0,FALSE
+397,STAND-ALONE Restuarant,Pennsylvania,$$$,Maspeth,13:00,16:00,0,TRUE
+398,DIRECTIONAL Restuarant,German,$$,Prince's Bay,07:00,20:00,0,FALSE
+399,SYSTEM-WORTHY Restuarant,Latvian,$$$,West Farms,07:00,23:00,0,TRUE
+400,DISCRETE Restuarant,Pakistani,$$,Chelsea,13:00,19:00,0,TRUE
+401,ENCRYPTION Restuarant,Chinese,$$,East Flushing,09:00,15:00,0,FALSE
+402,VERSATILE Restuarant,New,$,New Hyde Park,10:00,17:00,0,TRUE
+403,DATA-WAREHOUSE Restuarant,Malay,$$,Morrisania,13:00,23:00,1,TRUE
+404,COHESIVE Restuarant,Odia,$$$,Mapleton,14:00,21:00,0,TRUE
+405,HIERARCHY Restuarant,Native,$,Marine Park,07:00,16:00,1,TRUE
+406,EVEN-KEELED Restuarant,Spanish,$$$,Flushing,08:00,22:00,0,FALSE
+407,OPTIONAL Restuarant,Dutch,$$$,Mariners Harbor,09:00,22:00,0,FALSE
+408,ALGORITHM Restuarant,Hyderabad,$,Midwood,11:00,14:00,0,TRUE
+409,CONCEPT Restuarant,Mangalorean,$,Bensonhurst,10:00,23:00,0,TRUE
+410,LEVERAGE Restuarant,Spanish,$$$,Erasmus,12:00,17:00,0,TRUE
+411,CAPABILITY Restuarant,Mediterranean,$,Lindenwood,10:00,15:00,0,FALSE
+412,FRAMEWORK Restuarant,cuisine,$$$,Tudor Village,13:00,21:00,0,TRUE
+413,REAL-TIME Restuarant,Italian-American,$,City Island,09:00,20:00,1,FALSE
+414,FUNCTION Restuarant,Ainu,$$,Lenox Hill,10:00,18:00,1,TRUE
+415,MIDDLEWARE Restuarant,Catholic,$$$,Grant City,10:00,00:00,0,FALSE
+416,MISSION-CRITICAL Restuarant,German,$$,Prospect Lefferts Gardens,10:00,21:00,0,FALSE
+417,HELP-DESK Restuarant,Singaporean,$$$,Shore Acres,12:00,23:00,0,TRUE
+418,FORECAST Restuarant,Sindhi,$$$,Wingate,06:00,17:00,0,TRUE
+419,HYBRID Restuarant,Zanzibari,$$,Queensbridge,12:00,19:00,0,FALSE
+420,EXTENDED Restuarant,Buddhist,$,Borough Park,10:00,21:00,0,FALSE
+421,RE-CONTEXTUALIZED Restuarant,Azerbaijani,$$$,Auburndale,12:00,15:00,0,TRUE
+422,OPEN-SOURCE Restuarant,New,$$$,Oakwood,12:00,19:00,0,FALSE
+423,METHODOLOGY Restuarant,cuisine,$$,NoHo,10:00,21:00,0,TRUE
+424,PRE-EMPTIVE Restuarant,Odia,$,Little Neck,11:00,15:00,0,TRUE
+425,5TH GENERATION Restuarant,Czech,$$$,Ocean Parkway,11:00,19:00,0,FALSE
+426,SYNERGY Restuarant,Balochi,$,Manhattan Valley,07:00,23:00,0,TRUE
+427,FOCUSED Restuarant,Latvian,$,Pelham Parkway,11:00,23:00,0,FALSE
+428,MATRICES Restuarant,Romanian,$$,Sunnyside,06:00,15:00,0,TRUE
+429,ANALYZING Restuarant,Louisiana,$$,Clason Point,10:00,15:00,0,FALSE
+430,ERGONOMIC Restuarant,Indian,$,Harding Park,12:00,15:00,0,FALSE
+431,EXTRANET Restuarant,Buddhist,$$,Brighton Beach,11:00,20:00,0,FALSE
+432,REGIONAL Restuarant,Peruvian,$$$,Port Richmond,11:00,16:00,0,TRUE
+433,PROGRESSIVE Restuarant,Creole,$$$,Bayswater,08:00,18:00,1,FALSE
+434,CAPACITY Restuarant,English,$$$,University Heights,07:00,19:00,0,TRUE
+435,ORCHESTRATION Restuarant,Odia,$,Kings Highway,10:00,23:00,0,FALSE
+436,FOREGROUND Restuarant,Danish,$,East Harlem,11:00,18:00,0,TRUE
+437,VIRTUAL Restuarant,QuÃ©bÃ©cois,$$,Ridgewood,12:00,17:00,1,TRUE
+438,FUNCTION-BASED Restuarant,cuisine,$$$,Rose Hill,10:00,15:00,0,FALSE
+439,RECIPROCAL Restuarant,American,$$$,Astoria Heights,06:00,19:00,0,TRUE
+440,TIME-FRAME Restuarant,Mediterranean,$$$,Manhattan Valley,11:00,14:00,0,TRUE
+441,PERSISTENT Restuarant,cuisine,$$$,Prince's Bay,09:00,15:00,0,TRUE
+442,ENTERPRISE-WIDE Restuarant,Andhra,$,Morningside Heights,09:00,15:00,0,FALSE
+443,BIFURCATED Restuarant,Japanese,$$,Silver Beach,08:00,00:00,0,TRUE
+444,OPTIMIZING Restuarant,Goan,$$$,Clifton,13:00,19:00,0,TRUE
+445,APPROACH Restuarant,Brazilian,$,Chelsea,10:00,16:00,0,TRUE
+446,EXPANDED Restuarant,Goan,$$,Oakwood,11:00,16:00,0,FALSE
+447,ARCHIVE Restuarant,cuisine,$$,West Farms,14:00,00:00,0,FALSE
+448,REGIONAL Restuarant,Korean,$,East Flatbush,08:00,17:00,0,TRUE
+449,ORGANIZED Restuarant,Romanian,$$,Rossville,13:00,18:00,0,TRUE
+450,PROJECT Restuarant,Azerbaijani,$$$,Manhattan Valley,12:00,15:00,0,TRUE
+451,TIME-FRAME Restuarant,Egyptian,$$,Bellerose,10:00,20:00,0,TRUE
+452,FRESH-THINKING Restuarant,Punjabi,$,Wards Island,12:00,23:00,0,FALSE
+453,REGIONAL Restuarant,Hyderabad,$$,Elm Park,13:00,16:00,0,FALSE
+454,SUPPORT Restuarant,Arab,$,Marble Hill,09:00,17:00,0,TRUE
+455,NEEDS-BASED Restuarant,Chechen,$,Dyker Heights,10:00,17:00,0,FALSE
+456,ZERO DEFECT Restuarant,New,$$,Ocean Parkway,14:00,18:00,0,FALSE
+457,GRAPHIC INTERFACE Restuarant,Chechen,$$$,Crown Heights,12:00,15:00,0,FALSE
+458,NEURAL-NET Restuarant,American,$,Edenwald,08:00,20:00,0,TRUE
+459,TEAM-ORIENTED Restuarant,Egyptian,$,Edenwald,08:00,23:00,0,FALSE
+460,SUPPORT Restuarant,Chinese,$,Cobble Hill,10:00,16:00,0,TRUE
+461,FOREGROUND Restuarant,Peruvian,$$,Richmond Hill,06:00,20:00,0,FALSE
+462,EXECUTIVE Restuarant,Sri,$$$,Marble Hill,11:00,15:00,0,TRUE
+463,IMPLEMENTED Restuarant,Arab,$$,Astoria,14:00,23:00,0,TRUE
+464,OPERATIVE Restuarant,South,$$$,Stapleton,08:00,20:00,0,TRUE
+465,EXPLICIT Restuarant,Egyptian,$,Eastchester,12:00,21:00,0,TRUE
+466,FUTURE-PROOFED Restuarant,British,$$,Beechhurst,12:00,16:00,0,FALSE
+467,RE-CONTEXTUALIZED Restuarant,Gujarati,$$$,Sunnyside,11:00,18:00,0,FALSE
+468,INTANGIBLE Restuarant,Persian,$$$,Belle Harbor,07:00,21:00,0,TRUE
+469,SYNERGIZED Restuarant,Italian-American,$,Remsen Village,07:00,16:00,0,TRUE
+470,ORGANIZED Restuarant,Slovak,$,Greenridge,10:00,18:00,1,FALSE
+471,RECIPROCAL Restuarant,Cantonese,$,Two Bridges,08:00,18:00,0,TRUE
+472,ENCOMPASSING Restuarant,Azerbaijani,$$,Travis,06:00,22:00,0,TRUE
+473,EXUDING Restuarant,Indian,$$,Woodlawn Heights,10:00,15:00,1,FALSE
+474,VERSATILE Restuarant,Bengali,$,Norwood,12:00,21:00,0,FALSE
+475,MULTI-STATE Restuarant,Soviet,$$,Rikers Island,06:00,16:00,1,FALSE
+476,DISCRETE Restuarant,Chinese,$,City Island,12:00,16:00,0,TRUE
+477,MOBILE Restuarant,Chinese,$,Ridgewood,10:00,22:00,0,TRUE
+478,DECENTRALIZED Restuarant,Mediterranean,$,Edgemere,10:00,20:00,0,TRUE
+479,SEAMLESS Restuarant,Laotian,$$$,Pelham Bay,06:00,15:00,0,TRUE
+480,VISIONARY Restuarant,Mughal,$$$,Bronx River,10:00,20:00,0,FALSE
+481,CROSS-PLATFORM Restuarant,Laotian,$$,Jamaica,11:00,18:00,0,TRUE
+482,UNIFORM Restuarant,Belarusian,$$$,Chelsea,12:00,20:00,0,FALSE
+483,CENTRALIZED Restuarant,Creole,$,Richmond Valley,07:00,22:00,0,TRUE
+484,TEAM-ORIENTED Restuarant,Korean,$$$,Arlington,13:00,20:00,1,FALSE
+485,LOCAL AREA NETWORK Restuarant,American,$$$,Manhattan Valley,07:00,19:00,0,TRUE
+486,ADAPTIVE Restuarant,Rajasthani,$,New Springville,12:00,22:00,0,TRUE
+487,SYNERGISTIC Restuarant,Crimean,$$,Rose Hill,13:00,19:00,0,FALSE
+488,DECENTRALIZED Restuarant,Zanzibari,$,Rose Hill,09:00,20:00,0,TRUE
+489,APPROACH Restuarant,Thai,$$,Chinatown,09:00,20:00,0,FALSE
+490,IMPACTFUL Restuarant,Lebanese,$$$,Sea Gate,12:00,00:00,0,TRUE
+491,TANGIBLE Restuarant,Pakistani,$$,Wingate,06:00,23:00,0,TRUE
+492,METHODICAL Restuarant,Romanian,$,Bedford-Stuyvesant,08:00,23:00,1,TRUE
+493,OPEN SYSTEM Restuarant,Berber,$,Flushing,07:00,14:00,0,FALSE
+494,MANAGED Restuarant,Laotian,$$,Ocean Hill,14:00,19:00,1,TRUE
+495,RE-ENGINEERED Restuarant,Jamaican,$,Silver Beach,10:00,20:00,0,TRUE
+496,MISSION-CRITICAL Restuarant,Eritrean,$$,Boerum Hill,11:00,20:00,0,FALSE
+497,DECENTRALIZED Restuarant,German,$$$,Mill Basin,09:00,22:00,0,FALSE
+498,STAND-ALONE Restuarant,Korean,$,Midland Beach,11:00,17:00,0,TRUE
+499,STREAMLINED Restuarant,Japanese,$,Kensington,09:00,16:00,0,TRUE
+500,REVERSE-ENGINEERED Restuarant,Ukrainian,$,Grant City,14:00,15:00,0,FALSE
+501,SOLUTION Restuarant,cuisine,$,West Brighton,13:00,22:00,0,FALSE
+502,PORTAL Restuarant,Malaysian,$,Seaside,12:00,17:00,0,FALSE
+503,MULTI-STATE Restuarant,Goan,$,Charleston,09:00,19:00,1,FALSE
+504,REACTIVE Restuarant,Zambian,$$$,Harlem,08:00,17:00,1,FALSE
+505,LOCAL AREA NETWORK Restuarant,Zambian,$,Pomonok,10:00,18:00,1,FALSE
+506,OPTIMAL Restuarant,Danish,$$,Farragut,09:00,20:00,0,TRUE
+507,GRAPHICAL USER INTERFACE Restuarant,New,$$$,South Beach,11:00,23:00,0,TRUE
+508,HUB Restuarant,Crimean,$,Queensboro Hill,12:00,19:00,0,TRUE
+509,DEFINITION Restuarant,Caribbean,$$,West Village,09:00,21:00,0,FALSE
+510,TOOLSET Restuarant,Brazilian,$$$,Eltingville,12:00,19:00,0,TRUE
+511,REACTIVE Restuarant,Indian,$,Fresh Pond,12:00,23:00,0,FALSE
+512,SYSTEM-WORTHY Restuarant,Maharashtrian,$$$,Utopia,09:00,18:00,0,TRUE
+513,CUSTOMIZABLE Restuarant,Azerbaijani,$,Todt Hill,07:00,21:00,1,TRUE
+514,FRAMEWORK Restuarant,Turkish,$,Silver Beach,09:00,21:00,0,TRUE
+515,APPROACH Restuarant,Jewish,$$$,Roosevelt Island,10:00,22:00,0,TRUE
+516,VISION-ORIENTED Restuarant,Bangladeshi,$$$,Roosevelt Island,10:00,16:00,0,TRUE
+517,MOTIVATING Restuarant,Laotian,$,Hunters Point,13:00,15:00,0,FALSE
+518,WEB-ENABLED Restuarant,Spanish,$$$,College Point,10:00,15:00,0,TRUE
+519,FULL-RANGE Restuarant,Keralite,$$$,East Flatbush,06:00,16:00,0,FALSE
+520,BIFURCATED Restuarant,Islamic,$,Old Town,11:00,22:00,0,TRUE
+521,ACTUATING Restuarant,Malaysian,$$,Far Rockaway,14:00,00:00,0,TRUE
+522,PARALLELISM Restuarant,Pakistani,$,West Village,08:00,15:00,0,FALSE
+523,MULTI-STATE Restuarant,Odia,$$,Baisley Park,09:00,23:00,0,TRUE
+524,DIRECTIONAL Restuarant,Peruvian,$,Clinton,12:00,19:00,0,FALSE
+525,NEEDS-BASED Restuarant,Islamic,$,Sunset Park,13:00,00:00,0,FALSE
+526,SHARABLE Restuarant,Goan,$,East Gravesend,10:00,16:00,0,TRUE
+527,ROBUST Restuarant,Chinese,$$$,New Dorp,09:00,20:00,0,FALSE
+528,PARALLELISM Restuarant,Lithuanian,$,Arlington,06:00,20:00,0,TRUE
+529,RESPONSIVE Restuarant,Spanish,$$$,Tudor Village,09:00,20:00,0,FALSE
+530,CAPABILITY Restuarant,Gujarati,$,East Tremont,07:00,19:00,0,FALSE
+531,PROFIT-FOCUSED Restuarant,Goan,$,Queensboro Hill,11:00,16:00,0,TRUE
+532,CUSTOMER-FOCUSED Restuarant,French,$$$,Prince's Bay,12:00,15:00,0,TRUE
+533,PERSISTENT Restuarant,French,$$,Fort Wadsworth,07:00,00:00,0,TRUE
+534,NETWORKED Restuarant,Odia,$$$,Lower East Side,09:00,19:00,0,TRUE
+535,DATABASE Restuarant,English,$,Oakwood,11:00,20:00,1,FALSE
+536,ANALYZER Restuarant,Eritrean,$$$,Jackson Heights,13:00,19:00,0,FALSE
+537,SYNERGISTIC Restuarant,Pakistani,$$,Clason Point,09:00,16:00,0,TRUE
+538,PROTOCOL Restuarant,Taiwanese,$$,Sutton Place,13:00,19:00,0,TRUE
+539,SECURED Restuarant,Lankan,$$,Sutton Place,11:00,18:00,0,TRUE
+540,DEDICATED Restuarant,Rajasthani,$$$,Westchester Square,09:00,16:00,0,TRUE
+541,CONTENT-BASED Restuarant,Tatar,$$$,Kew Gardens Hills,13:00,23:00,0,TRUE
+542,ALGORITHM Restuarant,Cypriot,$$$,Laconia,09:00,17:00,0,FALSE
+543,EXCLUSIVE Restuarant,Udupi,$$,Linden Hill,13:00,22:00,0,TRUE
+544,ANALYZING Restuarant,Parsi,$$,Kew Gardens,09:00,17:00,0,TRUE
+545,FRONT-LINE Restuarant,Indian,$,Neponsit,08:00,00:00,0,TRUE
+546,DIRECTIONAL Restuarant,Lankan,$$$,Malba,11:00,21:00,0,TRUE
+547,CORE Restuarant,Belarusian,$$$,Fresh Pond,13:00,14:00,0,FALSE
+548,MULTI-TASKING Restuarant,Anglo-Indian,$,Neponsit,13:00,22:00,0,TRUE
+549,USER-CENTRIC Restuarant,Malay,$$$,Co-op City,14:00,19:00,0,FALSE
+550,ADVANCED Restuarant,Bangladeshi,$$$,South Ozone Park,10:00,21:00,0,TRUE
+551,GRAPHICAL USER INTERFACE Restuarant,Spanish,$,Huguenot,13:00,17:00,0,FALSE
+552,6TH GENERATION Restuarant,Awadhi,$$,Queens Village,09:00,20:00,0,TRUE
+553,INFRASTRUCTURE Restuarant,Eritrean,$$,Bergen Beach,13:00,18:00,0,FALSE
+554,VISION-ORIENTED Restuarant,Mennonite,$$$,Ditmas Village,11:00,19:00,0,TRUE
+555,STABLE Restuarant,cuisine,$,Williamsbridge,08:00,14:00,0,FALSE
+556,ARCHIVE Restuarant,Cantonese,$$,South Beach,13:00,23:00,0,TRUE
+557,PROCESS IMPROVEMENT Restuarant,cuisine,$,Malba,09:00,23:00,0,FALSE
+558,SCALABLE Restuarant,Dutch,$,Upper East Side,06:00,15:00,0,FALSE
+559,MODERATOR Restuarant,Danish,$,Queensboro Hill,10:00,21:00,0,FALSE
+560,ALGORITHM Restuarant,English,$$,Far Rockaway,11:00,19:00,0,FALSE
+561,LEVERAGE Restuarant,Zambian,$$$,Morningside Heights,08:00,20:00,0,TRUE
+562,DEDICATED Restuarant,Indian,$$$,Livingston,09:00,15:00,0,FALSE
+563,EXTRANET Restuarant,Armenian,$,Pelham Gardens,12:00,17:00,1,FALSE
+564,REVERSE-ENGINEERED Restuarant,Goan,$,Flushing,13:00,16:00,1,TRUE
+565,HOMOGENEOUS Restuarant,Ainu,$$,Richmond Hill,08:00,22:00,0,FALSE
+566,FUNCTION-BASED Restuarant,Zanzibari,$$$,Remsen Village,10:00,18:00,0,TRUE
+567,RESPONSIVE Restuarant,Caribbean,$,Georgetown,11:00,20:00,0,FALSE
+568,ARCHIVE Restuarant,Maharashtrian,$$,Parkchester,07:00,17:00,0,TRUE
+569,MORATORIUM Restuarant,French,$$,Glendale,11:00,18:00,0,TRUE
+570,FUNDAMENTAL Restuarant,Bangladeshi,$$$,Bathgate,09:00,18:00,0,FALSE
+571,PRODUCT Restuarant,Indian,$,Ocean Breeze,14:00,16:00,0,TRUE
+572,WORKFORCE Restuarant,Nepalese,$,Arlington,08:00,20:00,0,FALSE
+573,DEVOLVED Restuarant,Danish,$$$,Richmond Valley,09:00,22:00,0,TRUE
+574,METHODOLOGY Restuarant,Malay,$,New Brighton,07:00,20:00,0,TRUE
+575,SYSTEMIC Restuarant,Irish,$$,Bay Ridge,10:00,20:00,0,FALSE
+576,MATRIX Restuarant,Karnataka,$$,Clinton Hill,06:00,19:00,0,TRUE
+577,SYNCHRONISED Restuarant,Inuit,$$$,Castle Hill,10:00,17:00,0,FALSE
+578,CLIENT-SERVER Restuarant,Brazilian,$$$,Sutton Place,10:00,14:00,1,TRUE
+579,ANALYZER Restuarant,Mordovian,$$$,Fort Wadsworth,13:00,14:00,0,TRUE
+580,FRONT-LINE Restuarant,Eritrean,$$,Financial District,08:00,21:00,0,FALSE
+581,INTEGRATED Restuarant,cuisine,$,Richmond Hill,11:00,19:00,0,TRUE
+582,5TH GENERATION Restuarant,Mediterranean,$$$,Sunnyside Gardens,14:00,20:00,1,TRUE
+583,MULTI-STATE Restuarant,Louisiana,$$$,Dutch Kills,07:00,21:00,1,FALSE
+584,ZERO ADMINISTRATION Restuarant,Andhra,$$,Eastchester,06:00,18:00,0,FALSE
+585,PARALLELISM Restuarant,Spanish,$$$,Greenwich Village,10:00,00:00,0,TRUE
+586,DATABASE Restuarant,Buddhist,$,Gowanus,08:00,18:00,0,FALSE
+587,DISINTERMEDIATE Restuarant,Bangladeshi,$,Westerleigh,08:00,21:00,0,FALSE
+588,CUSTOMER LOYALTY Restuarant,Ethiopian,$,Battery Park City,09:00,21:00,0,TRUE
+589,PERSEVERING Restuarant,cuisine,$$$,Manhattanville,12:00,17:00,0,FALSE
+590,UTILISATION Restuarant,Ukrainian,$$$,Cambria Heights,10:00,00:00,0,FALSE
+591,MONITORED Restuarant,Spanish,$,Gravesend,14:00,19:00,0,FALSE
+592,ENHANCED Restuarant,Russian,$$$,Rugby,10:00,00:00,0,TRUE
+593,SUPPORT Restuarant,Indian,$$$,Chelsea,08:00,19:00,0,FALSE
+594,SOLUTION-ORIENTED Restuarant,Japanese,$$$,Van Nest,09:00,23:00,0,FALSE
+595,PRICING STRUCTURE Restuarant,Tamil,$$$,Todt Hill,11:00,20:00,0,TRUE
+596,SERVICE-DESK Restuarant,Vietnamese,$$$,Jackson Heights,10:00,21:00,0,TRUE
+597,PROFOUND Restuarant,Udupi,$$$,Flatlands,11:00,22:00,0,FALSE
+598,HIERARCHY Restuarant,Punjabi,$$$,Fresh Meadows,08:00,00:00,1,FALSE
+599,ANALYZER Restuarant,Greek,$$$,West Farms,09:00,17:00,0,FALSE
+600,OBJECT-ORIENTED Restuarant,Slovenian,$$$,Madison,06:00,15:00,0,TRUE
+601,CONFIGURABLE Restuarant,Assyrian,$,Sea Gate,08:00,17:00,0,TRUE
+602,MODULAR Restuarant,Arab,$$,Tribeca,10:00,14:00,0,FALSE
+603,SYSTEMIC Restuarant,Pakistani,$$$,Mill Basin,10:00,15:00,0,FALSE
+604,CONTENT-BASED Restuarant,Kazakh,$$$,Midwood,14:00,20:00,0,TRUE
+605,CUSTOMIZABLE Restuarant,Yamal,$$,Ocean Hill,07:00,16:00,0,TRUE
+606,INNOVATIVE Restuarant,Indian,$,Castleton Corners,13:00,22:00,0,TRUE
+607,OPERATIVE Restuarant,cuisine,$,Morris Heights,07:00,14:00,0,TRUE
+608,MOBILE Restuarant,Malaysian,$,East Flatbush,07:00,17:00,0,TRUE
+609,CAPABILITY Restuarant,Gujarati,$,Bruckner,11:00,20:00,0,TRUE
+610,COLLABORATION Restuarant,French,$$$,East Elmhurst,13:00,17:00,0,TRUE
+611,INCREMENTAL Restuarant,Malaysian,$,New Brighton,09:00,15:00,0,TRUE
+612,ERGONOMIC Restuarant,Keralite,$,Meadowmere,07:00,00:00,1,TRUE
+613,WORKFORCE Restuarant,Irish,$$,Concourse Village,10:00,16:00,1,FALSE
+614,ACTUATING Restuarant,Bangladeshi,$$,Starrett City,11:00,17:00,0,TRUE
+615,TRANSITIONAL Restuarant,German,$,Harlem,07:00,22:00,0,FALSE
+616,TASK-FORCE Restuarant,American,$$,Clinton,11:00,23:00,0,FALSE
+617,DECENTRALIZED Restuarant,Texan,$,Rego Park,13:00,21:00,0,TRUE
+618,EXTENDED Restuarant,Singaporean,$,Bath Beach,11:00,18:00,0,TRUE
+619,CLEAR-THINKING Restuarant,Somali,$$,Randall's Island,11:00,20:00,0,FALSE
+620,BIFURCATED Restuarant,Laotian,$$$,Upper West Side,07:00,22:00,1,TRUE
+621,SWITCHABLE Restuarant,Thai,$$$,Spuyten Duyvil,08:00,22:00,0,FALSE
+622,SYSTEMATIC Restuarant,Mordovian,$$$,Marine Park,09:00,23:00,0,FALSE
+623,INNOVATIVE Restuarant,Hyderabad,$$,East New York,10:00,22:00,0,TRUE
+624,SYSTEMIC Restuarant,Malay,$,Astoria Heights,13:00,15:00,0,FALSE
+625,MONITORING Restuarant,Bangladeshi,$,Locust Point,06:00,15:00,0,FALSE
+626,DIDACTIC Restuarant,Balochi,$$,Dongan Hills,07:00,17:00,0,FALSE
+627,ASSIMILATED Restuarant,British,$$,Van Nest,10:00,14:00,0,FALSE
+628,MAXIMIZED Restuarant,Greek,$$$,Greenridge,11:00,23:00,0,TRUE
+629,IMPLEMENTATION Restuarant,Taiwanese,$$,New Dorp,10:00,19:00,0,FALSE
+630,EMULATION Restuarant,Berber,$,East Elmhurst,13:00,00:00,0,FALSE
+631,DIDACTIC Restuarant,Berber,$,Midwood,12:00,17:00,0,TRUE
+632,VALUE-ADDED Restuarant,Catholic,$,Clifton,14:00,23:00,1,TRUE
+633,PROCESS IMPROVEMENT Restuarant,Keralite,$$$,Bay Terrace,12:00,17:00,0,TRUE
+634,EXPLICIT Restuarant,Indian,$$,East Flatbush,07:00,17:00,0,FALSE
+635,MULTI-CHANNELLED Restuarant,Malaysian,$,Castle Hill,13:00,19:00,0,TRUE
+636,OPTIONAL Restuarant,British,$,Fort Wadsworth,10:00,15:00,0,FALSE
+637,5TH GENERATION Restuarant,Buddhist,$,Castleton Corners,07:00,23:00,0,TRUE
+638,KNOWLEDGE BASE Restuarant,cuisine,$$,Farragut,14:00,22:00,0,TRUE
+639,LEADING EDGE Restuarant,Parsi,$,NoHo,07:00,20:00,0,FALSE
+640,ENTERPRISE-WIDE Restuarant,Chinese,$$$,Edenwald,11:00,18:00,0,FALSE
+641,INNOVATIVE Restuarant,Jamaican,$,Laconia,11:00,14:00,0,TRUE
+642,GROUPWARE Restuarant,Indian,$,Morningside Heights,06:00,14:00,1,TRUE
+643,ORGANIZED Restuarant,Tatar,$$$,Sunnyside,14:00,16:00,0,TRUE
+644,EXUDING Restuarant,Odia,$$$,Great Kills,11:00,22:00,0,TRUE
+645,HUB Restuarant,Chinese,$$,Bathgate,11:00,17:00,0,FALSE
+646,HUMAN-RESOURCE Restuarant,Georgian,$,Woodhaven,11:00,15:00,1,FALSE
+647,ROBUST Restuarant,Eritrean,$$,Whitestone,11:00,20:00,0,TRUE
+648,PRODUCT Restuarant,Berber,$,East Village,13:00,15:00,1,TRUE
+649,PROACTIVE Restuarant,Malay,$$$,Chelsea,14:00,20:00,0,FALSE
+650,FACE TO FACE Restuarant,Rajasthani,$$$,Port Ivory,08:00,20:00,0,TRUE
+651,INFO-MEDIARIES Restuarant,Jamaican,$$$,Beechhurst,12:00,23:00,0,FALSE
+652,OPTIMIZING Restuarant,Armenian,$,Long Island City,08:00,16:00,1,FALSE
+653,USER-FACING Restuarant,Peranakan,$$$,Hamilton Heights,10:00,18:00,0,TRUE
+654,OPEN-ARCHITECTED Restuarant,Ethiopian,$,Two Bridges,12:00,15:00,0,FALSE
+655,FLEXIBILITY Restuarant,Slovenian,$,Astoria,09:00,17:00,0,FALSE
+656,ATTITUDE Restuarant,Hyderabad,$$,Concourse Village,11:00,15:00,0,FALSE
+657,DEMAND-DRIVEN Restuarant,Laotian,$$$,Chelsea,10:00,20:00,0,TRUE
+658,AMELIORATED Restuarant,Somali,$$,Unionport,09:00,18:00,0,FALSE
+659,VISIONARY Restuarant,Circassian,$$,Coney Island,07:00,17:00,1,TRUE
+660,QUALITY-FOCUSED Restuarant,Lankan,$,Brownsville,08:00,21:00,0,TRUE
+661,TOOLSET Restuarant,Louisiana,$$$,Rochdale Village,09:00,15:00,0,FALSE
+662,UNIFORM Restuarant,Armenian,$,Todt Hill,13:00,22:00,0,TRUE
+663,CONGLOMERATION Restuarant,cuisine,$,Windsor Terrace,08:00,22:00,0,TRUE
+664,VIRTUAL Restuarant,Turkish,$,Marble Hill,12:00,16:00,0,TRUE
+665,WEB-ENABLED Restuarant,Ainu,$$$,Kips Bay,08:00,22:00,1,FALSE
+666,PROGRESSIVE Restuarant,Punjabi,$,Kensington,12:00,15:00,0,FALSE
+667,ADAPTER Restuarant,cuisine,$$,Long Island City,07:00,00:00,0,FALSE
+668,INFRASTRUCTURE Restuarant,Bashkir,$,Chinatown,13:00,16:00,0,TRUE
+669,PORTAL Restuarant,Mordovian,$$$,Linden Hill,07:00,16:00,0,TRUE
+670,PROTOCOL Restuarant,Lithuanian,$$,Rosebank,12:00,21:00,0,TRUE
+671,VALUE-ADDED Restuarant,Slovak,$$$,Ditmas Village,10:00,21:00,0,TRUE
+672,BUDGETARY MANAGEMENT Restuarant,cuisine,$,Bronx River,13:00,18:00,1,TRUE
+673,IMPACTFUL Restuarant,Berber,$$$,Gravesend,09:00,21:00,0,TRUE
+674,CONFIGURABLE Restuarant,Sami,$,Farragut,13:00,18:00,0,FALSE
+675,SECONDARY Restuarant,Awadhi,$,Queensboro Hill,13:00,19:00,1,FALSE
+676,CAPABILITY Restuarant,Slovak,$$$,Bronxdale,11:00,20:00,0,TRUE
+677,TERTIARY Restuarant,Arab,$$$,Rosebank,11:00,16:00,0,TRUE
+678,CUSTOMER-FOCUSED Restuarant,Malaysian,$$$,Port Ivory,13:00,18:00,1,FALSE
+679,6TH GENERATION Restuarant,Lankan,$$$,Bensonhurst,08:00,20:00,1,TRUE
+680,EVEN-KEELED Restuarant,Vietnamese,$$,Murray Hill,11:00,00:00,0,TRUE
+681,MORATORIUM Restuarant,Indian,$,Greenwich Village,11:00,23:00,0,TRUE
+682,PUBLIC-KEY Restuarant,cuisine,$$,Georgetown,11:00,16:00,0,FALSE
+683,PARADIGM Restuarant,Louisiana,$,Hudson Yards,14:00,17:00,0,FALSE
+684,BI-DIRECTIONAL Restuarant,Peranakan,$,Kensington,13:00,18:00,0,TRUE
+685,PRODUCTIVITY Restuarant,cuisine,$$$,Gowanus,07:00,15:00,0,TRUE
+686,CONFIGURABLE Restuarant,Taiwanese,$$,Woodrow,10:00,19:00,0,FALSE
+687,FUNCTIONALITIES Restuarant,Cajun,$,Kingsbridge,07:00,21:00,0,FALSE
+688,RE-ENGINEERED Restuarant,Parsi,$,Williamsburg Houses,12:00,17:00,0,FALSE
+689,ACTUATING Restuarant,cuisine,$,East Gravesend,06:00,19:00,0,FALSE
+690,SYNCHRONISED Restuarant,Mangalorean,$$,Williamsburg,09:00,14:00,0,TRUE
+691,POLARISED Restuarant,cuisine,$$,Woodhaven,12:00,23:00,0,TRUE
+692,ASYNCHRONOUS Restuarant,Cypriot,$$$,Bathgate,10:00,22:00,0,FALSE
+693,IMPLEMENTED Restuarant,Romanian,$$$,Graniteville,07:00,15:00,0,TRUE
+694,PERSISTENT Restuarant,Cypriot,$$$,Bedford Park,13:00,19:00,0,FALSE
+695,CLIENT-DRIVEN Restuarant,Mennonite,$$$,Bronxdale,11:00,16:00,0,TRUE
+696,INSTRUCTION SET Restuarant,Georgian,$$,Bayswater,07:00,19:00,0,FALSE
+697,4TH GENERATION Restuarant,Peruvian,$$$,Eastchester,09:00,18:00,0,FALSE
+698,4TH GENERATION Restuarant,Cypriot,$,Concord,10:00,16:00,0,TRUE
+699,24/7 Restuarant,Japanese,$$$,Crotona Park,10:00,18:00,0,TRUE
+700,POLARISED Restuarant,Pakistani,$$$,Westchester Square,09:00,18:00,0,FALSE
+701,MODULAR Restuarant,cuisine,$$,Holliswood,06:00,22:00,0,FALSE
+702,PROGRAMMABLE Restuarant,Mughal,$$$,Claremont,06:00,20:00,0,TRUE
+703,METHODOLOGY Restuarant,Eritrean,$$,Murray Hill,13:00,23:00,0,FALSE
+704,6TH GENERATION Restuarant,Malaysian,$$$,Shore Acres,13:00,22:00,0,TRUE
+705,MULTIMEDIA Restuarant,Azerbaijani,$$$,Peter Cooper Village,10:00,14:00,0,TRUE
+706,KNOWLEDGE BASE Restuarant,English,$,Kingsbridge,12:00,19:00,1,TRUE
+707,RE-CONTEXTUALIZED Restuarant,Pennsylvania,$$,Mill Island,14:00,22:00,0,FALSE
+708,STANDARDIZATION Restuarant,Indian,$$$,Woodlawn Heights,07:00,16:00,0,FALSE
+709,MULTI-LAYERED Restuarant,Filipino,$$$,Mariners Harbor,12:00,21:00,1,TRUE
+710,MULTIMEDIA Restuarant,Zanzibari,$,Westerleigh,12:00,22:00,0,FALSE
+711,VERSATILE Restuarant,Bulgarian,$,Brownsville,11:00,17:00,0,TRUE
+712,EXUDING Restuarant,Inuit,$,Woodside,12:00,15:00,0,FALSE
+713,FUNCTION-BASED Restuarant,Turkish,$,Neponsit,10:00,19:00,0,TRUE
+714,CUSTOMER LOYALTY Restuarant,Indian,$$$,Edenwald,10:00,21:00,0,FALSE
+715,GRAPHIC INTERFACE Restuarant,Latvian,$$$,Elm Park,09:00,16:00,1,TRUE
+716,OPEN-ARCHITECTED Restuarant,Rajasthani,$$,Port Morris,12:00,00:00,0,TRUE
+717,ANALYZING Restuarant,Circassian,$$$,Kings Bay,13:00,23:00,0,FALSE
+718,HUMAN-RESOURCE Restuarant,Crimean,$$,Coney Island,11:00,20:00,1,TRUE
+719,TERTIARY Restuarant,Tatar,$$$,Sunnyside,07:00,17:00,0,TRUE
+720,TRIPLE-BUFFERED Restuarant,British,$$,Maspeth,12:00,23:00,0,TRUE
+721,HORIZONTAL Restuarant,Malaysian,$$,Breezy Point,08:00,18:00,1,TRUE
+722,MULTI-LAYERED Restuarant,Gujarati,$$,Pomonok,09:00,22:00,0,FALSE
+723,REDUCED Restuarant,Crimean,$$,Bensonhurst,13:00,15:00,1,TRUE
+724,DIRECTIONAL Restuarant,Mughal,$$,Madison,09:00,21:00,0,FALSE
+725,EXUDING Restuarant,Caribbean,$$$,City Island,11:00,18:00,0,TRUE
+726,INFO-MEDIARIES Restuarant,Mexican,$,St. Albans,09:00,21:00,0,TRUE
+727,DATA-WAREHOUSE Restuarant,Texan,$$$,Fulton Ferry,11:00,22:00,0,TRUE
+728,CENTRALIZED Restuarant,Berber,$,Waterside Plaza,07:00,19:00,0,TRUE
+729,PROTOCOL Restuarant,Kurdish,$$,New Springville,07:00,14:00,0,FALSE
+730,REDUCED Restuarant,Yamal,$$,Greenpoint,09:00,22:00,0,FALSE
+731,LOCAL AREA NETWORK Restuarant,Greek,$,Van Cortlandt Village,09:00,18:00,0,FALSE
+732,INNOVATIVE Restuarant,Balochi,$$,Fulton Ferry,08:00,16:00,0,TRUE
+733,DEVOLVED Restuarant,Egyptian,$$,Williamsbridge,11:00,22:00,0,TRUE
+734,LEVERAGE Restuarant,Crimean,$$,Meiers Corners,08:00,21:00,0,TRUE
+735,POLARISED Restuarant,Peruvian,$,Lindenwood,13:00,15:00,0,FALSE
+736,LEADING EDGE Restuarant,Arab,$$$,Oakland Gardens,12:00,16:00,0,TRUE
+737,CIRCUIT Restuarant,Polish,$$$,Manhattan Valley,10:00,20:00,0,FALSE
+738,SYNERGY Restuarant,Spanish,$$$,City Line,11:00,21:00,0,TRUE
+739,PRICING STRUCTURE Restuarant,Ainu,$$$,Jackson Heights,08:00,16:00,0,TRUE
+740,OPEN ARCHITECTURE Restuarant,Azerbaijani,$$,Bathgate,11:00,21:00,0,FALSE
+741,FIRMWARE Restuarant,American,$$$,Ridgewood,09:00,14:00,0,FALSE
+742,TRANSITIONAL Restuarant,Slovak,$$,Red Hook,08:00,14:00,0,TRUE
+743,CLONED Restuarant,Egyptian,$$$,Lindenwood,08:00,21:00,0,FALSE
+744,AMELIORATED Restuarant,Sindhi,$$$,Mapleton,12:00,17:00,0,TRUE
+745,SELF-ENABLING Restuarant,Irish,$,Prince's Bay,12:00,18:00,0,FALSE
+746,VISION-ORIENTED Restuarant,Texan,$$$,Sunset Park,12:00,19:00,0,FALSE
+747,DEMAND-DRIVEN Restuarant,Korean,$,Remsen Village,11:00,23:00,0,FALSE
+748,HOMOGENEOUS Restuarant,Malay,$$,Richmond Hill,11:00,21:00,0,FALSE
+749,USER-CENTRIC Restuarant,Tatar,$$$,Stapleton,13:00,23:00,0,TRUE
+750,FUNCTIONALITIES Restuarant,Slovak,$$$,Farragut,09:00,15:00,0,TRUE
+751,VALUE-ADDED Restuarant,Nepalese,$$,Starrett City,11:00,19:00,0,TRUE
+752,ARCHITECTURE Restuarant,cuisine,$$,Bayswater,07:00,00:00,0,TRUE
+753,RESPONSIVE Restuarant,Chinese,$,Roosevelt Island,07:00,20:00,1,TRUE
+754,GRAPHICAL USER INTERFACE Restuarant,Keralite,$$$,Utopia,14:00,22:00,0,TRUE
+755,DIDACTIC Restuarant,Bengali,$$,Erasmus,13:00,15:00,0,FALSE
+756,SERVICE-DESK Restuarant,Buddhist,$$$,Ditmas Village,12:00,16:00,0,TRUE
+757,BENCHMARK Restuarant,Soviet,$$,Stuyvesant Town,07:00,22:00,0,TRUE
+758,DECENTRALIZED Restuarant,Tatar,$$,Brooklyn Navy Yard,11:00,18:00,0,TRUE
+759,RIGHT-SIZED Restuarant,Catholic,$$$,Williamsburg Houses,07:00,19:00,0,TRUE
+760,MIDDLEWARE Restuarant,Sri,$,Harlem,07:00,15:00,0,TRUE
+761,METHODOLOGY Restuarant,Maharashtrian,$$,Morningside Heights,07:00,23:00,0,FALSE
+762,MOTIVATING Restuarant,Eritrean,$$,Gerritsen Beach,12:00,20:00,0,FALSE
+763,HYBRID Restuarant,Rajasthani,$$$,Springfield Gardens,09:00,21:00,0,FALSE
+764,DISINTERMEDIATE Restuarant,Albanian,$,Kensington,07:00,22:00,0,TRUE
+765,MULTI-TASKING Restuarant,Tatar,$$,Sunnyside,10:00,18:00,0,TRUE
+766,OPTIMAL Restuarant,Lebanese,$,Brownsville,07:00,16:00,0,TRUE
+767,UPGRADABLE Restuarant,Pashtun,$$$,Soundview,13:00,15:00,1,FALSE
+768,DE-ENGINEERED Restuarant,Eritrean,$$$,Woodhaven,07:00,22:00,0,FALSE
+769,MATRIX Restuarant,British,$,Rego Park,11:00,20:00,0,FALSE
+770,APPLICATION Restuarant,Malaysian,$,Ravenswood,09:00,23:00,0,TRUE
+771,INTUITIVE Restuarant,Singaporean,$$$,Norwood,11:00,00:00,0,FALSE
+772,ARTIFICIAL INTELLIGENCE Restuarant,Sami,$$,Glen Oaks,07:00,20:00,1,TRUE
+773,MOTIVATING Restuarant,Peranakan,$$,Fieldston,11:00,15:00,0,FALSE
+774,TANGIBLE Restuarant,Pennsylvania,$$$,Emerson Hill,13:00,14:00,1,TRUE
+775,INTERACTIVE Restuarant,Chinese,$,Soundview,07:00,15:00,0,TRUE
+776,3RD GENERATION Restuarant,Islamic,$$$,Port Morris,12:00,22:00,0,FALSE
+777,PROFIT-FOCUSED Restuarant,Lithuanian,$,Howard Beach,13:00,14:00,0,FALSE
+778,TERTIARY Restuarant,Bashkir,$$,Marine Park,07:00,00:00,0,FALSE
+779,BALANCED Restuarant,Eritrean,$,Fort Greene,07:00,14:00,0,TRUE
+780,INNOVATIVE Restuarant,Vietnamese,$,Ozone Park,10:00,23:00,0,FALSE
+781,APPLICATION Restuarant,Crimean,$$,Chelsea,13:00,18:00,0,FALSE
+782,INFRASTRUCTURE Restuarant,Filipino,$$,Wakefield,11:00,20:00,0,TRUE
+783,INTERACTIVE Restuarant,Czech,$$$,Richmond Hill,11:00,22:00,0,FALSE
+784,MONITORED Restuarant,cuisine,$$$,Utopia,13:00,19:00,0,FALSE
+785,TIME-FRAME Restuarant,Taiwanese,$,Sunset Park,10:00,22:00,1,TRUE
+786,SUCCESS Restuarant,Crimean,$$$,Maspeth,09:00,00:00,0,TRUE
+787,GLOBAL Restuarant,Mennonite,$$$,Bronxdale,06:00,19:00,0,FALSE
+788,6TH GENERATION Restuarant,Sri,$$,Hell's Kitchen,09:00,16:00,0,FALSE
+789,SYSTEM ENGINE Restuarant,Inuit,$,Baisley Park,13:00,15:00,0,FALSE
+790,BACKGROUND Restuarant,Mughal,$$,Carroll Gardens,09:00,18:00,1,FALSE
+791,SECURED LINE Restuarant,Native,$,Spanish Harlem,12:00,14:00,0,TRUE
+792,COMPOSITE Restuarant,Thai,$$$,Rose Hill,12:00,18:00,0,FALSE
+793,LEVERAGE Restuarant,Georgian,$$,Westerleigh,09:00,20:00,1,TRUE
+794,24 HOUR Restuarant,Crimean,$,Chinatown,09:00,18:00,0,TRUE
+795,BUDGETARY MANAGEMENT Restuarant,Indian,$,Hollis,07:00,18:00,0,FALSE
+796,OPERATIVE Restuarant,Vietnamese,$$,Port Ivory,13:00,20:00,0,TRUE
+797,DISCRETE Restuarant,Nepalese,$$,Highbridge,12:00,20:00,0,TRUE
+798,GRASS-ROOTS Restuarant,Persian,$$$,Edgemere,13:00,15:00,0,TRUE
+799,DATA-WAREHOUSE Restuarant,cuisine,$$$,Gravesend,08:00,15:00,0,FALSE
+800,GRID-ENABLED Restuarant,American,$,Kingsbridge Heights,08:00,23:00,0,TRUE
+801,PERSISTENT Restuarant,Rajasthani,$,Claremont,12:00,20:00,0,FALSE
+802,PROFIT-FOCUSED Restuarant,Jewish,$$,Fresh Meadows,13:00,21:00,0,FALSE
+803,WEB-ENABLED Restuarant,Malay,$,Gerritsen Beach,13:00,18:00,0,FALSE
+804,NEEDS-BASED Restuarant,Bulgarian,$,Greenpoint,11:00,23:00,0,FALSE
+805,EXUDING Restuarant,American,$,Queensboro Hill,09:00,22:00,0,FALSE
+806,RE-CONTEXTUALIZED Restuarant,Catholic,$$,Ocean Parkway,07:00,16:00,0,TRUE
+807,INTUITIVE Restuarant,Mexican,$$$,Ocean Hill,10:00,17:00,0,FALSE
+808,STANDARDIZATION Restuarant,Polish,$$$,Parkchester,09:00,18:00,0,FALSE
+809,CENTRALIZED Restuarant,Indian,$,Corona,13:00,14:00,0,FALSE
+810,ARRAY Restuarant,Czech,$$,Roosevelt Island,12:00,20:00,0,TRUE
+811,ROBUST Restuarant,Danish,$,West Village,08:00,17:00,0,TRUE
+812,ALGORITHM Restuarant,Punjabi,$$$,University Heights,12:00,17:00,0,TRUE
+813,FUTURE-PROOFED Restuarant,Cypriot,$,Westerleigh,12:00,15:00,0,TRUE
+814,24 HOUR Restuarant,Albanian,$,Sunnyside,14:00,16:00,1,FALSE
+815,PROGRAMMABLE Restuarant,Japanese,$$$,Bath Beach,10:00,23:00,0,TRUE
+816,CIRCUIT Restuarant,South,$$,Financial District,11:00,00:00,0,TRUE
+817,DISTRIBUTED Restuarant,Dutch,$,Bath Beach,10:00,18:00,0,FALSE
+818,FRESH-THINKING Restuarant,Buddhist,$,Sunnyside,07:00,15:00,0,FALSE
+819,4TH GENERATION Restuarant,Pakistani,$,Prospect Heights,12:00,16:00,0,TRUE
+820,CIRCUIT Restuarant,Indian,$,Silver Lake,11:00,21:00,0,TRUE
+821,GROUPWARE Restuarant,Chinese,$,New Springville,07:00,16:00,0,FALSE
+822,WEBSITE Restuarant,American,$,Lenox Hill,13:00,19:00,0,TRUE
+823,WEBSITE Restuarant,Indian,$,Little Neck,12:00,20:00,0,TRUE
+824,BIFURCATED Restuarant,Mordovian,$$$,Park Slope,07:00,00:00,0,FALSE
+825,SUPERSTRUCTURE Restuarant,American,$$,Travis,12:00,16:00,0,FALSE
+826,MULTIMEDIA Restuarant,German,$$,Fulton Mall,12:00,20:00,0,FALSE
+827,ROBUST Restuarant,Singaporean,$$$,Mill Island,12:00,16:00,0,TRUE
+828,VISION-ORIENTED Restuarant,New,$$,Midland Beach,08:00,00:00,0,FALSE
+829,UPWARD-TRENDING Restuarant,cuisine,$$$,Hollis Hills,11:00,14:00,0,FALSE
+830,SYSTEMIC Restuarant,Zanzibari,$$,Sea Gate,12:00,23:00,0,FALSE
+831,REALIGNED Restuarant,Belarusian,$$$,Greenwood Heights,12:00,22:00,0,FALSE
+832,NEXT GENERATION Restuarant,Danish,$$,New Brighton,08:00,18:00,0,FALSE
+833,MATRICES Restuarant,Laotian,$$,Meiers Corners,12:00,23:00,0,FALSE
+834,RADICAL Restuarant,Chinese,$$,Rego Park,10:00,22:00,0,TRUE
+835,GRAPHICAL USER INTERFACE Restuarant,Udupi,$$$,Georgetown,14:00,18:00,0,FALSE
+836,PROFIT-FOCUSED Restuarant,German,$,Bronxdale,10:00,16:00,0,FALSE
+837,PROFOUND Restuarant,Louisiana,$$$,Flushing,13:00,00:00,0,FALSE
+838,OPTIMAL Restuarant,Arab,$$,Stapleton,12:00,18:00,0,TRUE
+839,ATTITUDE-ORIENTED Restuarant,Somali,$,Bay Terrace,11:00,21:00,0,TRUE
+840,REALIGNED Restuarant,South,$$,Sunset Park,13:00,21:00,0,TRUE
+841,ATTITUDE-ORIENTED Restuarant,Filipino,$,Hollis,09:00,18:00,0,TRUE
+842,HELP-DESK Restuarant,British,$$,Tudor City,14:00,23:00,0,FALSE
+843,EXECUTIVE Restuarant,Kazakh,$$,Liberty Park,07:00,21:00,0,TRUE
+844,LOCAL AREA NETWORK Restuarant,Pashtun,$$$,Bayside,09:00,22:00,0,TRUE
+845,COHERENT Restuarant,Italian,$$$,Prospect Lefferts Gardens,13:00,19:00,0,TRUE
+846,HUMAN-RESOURCE Restuarant,Kazakh,$,Coney Island,09:00,15:00,0,FALSE
+847,ASYNCHRONOUS Restuarant,Mediterranean,$,Woodhaven,08:00,14:00,0,FALSE
+848,REALIGNED Restuarant,Cypriot,$,Norwood,09:00,15:00,0,TRUE
+849,DISTRIBUTED Restuarant,Albanian,$,Fresh Pond,10:00,19:00,0,FALSE
+850,ENCODING Restuarant,Eritrean,$$,Bath Beach,13:00,16:00,0,TRUE
+851,LOCAL Restuarant,Peranakan,$$,Fulton Mall,12:00,23:00,0,TRUE
+852,PARALLELISM Restuarant,cuisine,$$$,Spuyten Duyvil,10:00,22:00,1,FALSE
+853,IMPLEMENTATION Restuarant,Chinese,$,Kips Bay,09:00,19:00,1,TRUE
+854,ATTITUDE Restuarant,Pashtun,$,Clinton Hill,08:00,18:00,0,TRUE
+855,ALGORITHM Restuarant,Latvian,$$,Edgemere,11:00,20:00,0,FALSE
+856,EXCLUSIVE Restuarant,Berber,$,Kew Gardens Hills,11:00,17:00,0,FALSE
+857,PORTAL Restuarant,Mughal,$,Bay Ridge,13:00,19:00,0,TRUE
+858,3RD GENERATION Restuarant,Albanian,$,Lindenwood,12:00,15:00,0,FALSE
+859,BIFURCATED Restuarant,Balochi,$$$,Mill Basin,08:00,16:00,0,TRUE
+860,COMPATIBLE Restuarant,Peruvian,$,Pomonok Houses,11:00,20:00,0,FALSE
+861,ORCHESTRATION Restuarant,Chinese,$$$,Woodlawn Heights,07:00,22:00,0,FALSE
+862,CROSS-PLATFORM Restuarant,Bashkir,$,Lower East Side,12:00,16:00,0,TRUE
+863,BENCHMARK Restuarant,Lebanese,$,New Brighton,11:00,17:00,0,FALSE
+864,HORIZONTAL Restuarant,Hyderabad,$$,Charleston,13:00,20:00,0,TRUE
+865,MANAGED Restuarant,Crimean,$$$,Coney Island,12:00,00:00,0,FALSE
+866,CONGLOMERATION Restuarant,Singaporean,$,Charleston,09:00,00:00,0,TRUE
+867,24/7 Restuarant,Zanzibari,$,Egbertville,10:00,23:00,0,FALSE
+868,SECONDARY Restuarant,Malay,$$$,Pelham Parkway,10:00,22:00,0,FALSE
+869,PARADIGM Restuarant,Parsi,$,Dongan Hills,11:00,20:00,0,TRUE
+870,LOGISTICAL Restuarant,Bangladeshi,$,Greenwich Village,14:00,15:00,1,FALSE
+871,3RD GENERATION Restuarant,Awadhi,$$$,Douglaston,10:00,22:00,0,TRUE
+872,OPEN-SOURCE Restuarant,Pashtun,$$,Corona,09:00,16:00,0,TRUE
+873,UP-SIZED Restuarant,Crimean,$,East Gravesend,06:00,15:00,0,TRUE
+874,SYNERGIZED Restuarant,Greek,$$$,Fulton Mall,08:00,23:00,0,TRUE
+875,6TH GENERATION Restuarant,French,$$$,Ocean Breeze,10:00,23:00,0,TRUE
+876,ASSIMILATED Restuarant,Chinese,$$$,Castle Hill,11:00,23:00,0,TRUE
+877,MULTI-STATE Restuarant,English,$,Seaside,07:00,21:00,0,FALSE
+878,DISINTERMEDIATE Restuarant,Cantonese,$$$,Midtown,12:00,23:00,0,TRUE
+879,CONTEXTUALLY-BASED Restuarant,Karnataka,$$,Rosebank,14:00,23:00,1,FALSE
+880,PRODUCTIVITY Restuarant,Mennonite,$$$,Concourse,13:00,17:00,0,FALSE
+881,OPERATIVE Restuarant,cuisine,$$,West Brighton,12:00,18:00,0,TRUE
+882,METHODOLOGY Restuarant,Ukrainian,$$,Holliswood,14:00,21:00,0,FALSE
+883,ATTITUDE-ORIENTED Restuarant,Turkish,$$$,Astoria Heights,08:00,17:00,0,FALSE
+884,INCREMENTAL Restuarant,Taiwanese,$$,Pelham Bay,13:00,17:00,0,TRUE
+885,TEAM-ORIENTED Restuarant,Singaporean,$$,Remsen Village,12:00,16:00,0,FALSE
+886,INTERACTIVE Restuarant,Punjabi,$$,Ocean Breeze,09:00,14:00,0,TRUE
+887,TERTIARY Restuarant,Sri,$,Manhattan Valley,13:00,15:00,0,TRUE
+888,CHALLENGE Restuarant,Kazakh,$$$,Elm Park,10:00,23:00,1,FALSE
+889,PROJECTION Restuarant,Hyderabad,$,Pelham Gardens,11:00,00:00,0,TRUE
+890,FORECAST Restuarant,Inuit,$$$,Gerritsen Beach,09:00,21:00,0,TRUE
+891,CIRCUIT Restuarant,Indian,$$,Longwood,11:00,17:00,0,FALSE
+892,APPLICATION Restuarant,Indian,$,Williamsburg,11:00,18:00,0,FALSE
+893,HARDWARE Restuarant,Malaysian,$$$,Polo Grounds,07:00,23:00,0,TRUE
+894,FRESH-THINKING Restuarant,Cajun,$$,Eltingville,08:00,22:00,0,FALSE
+895,SUCCESS Restuarant,Texan,$$,East New York,09:00,16:00,0,FALSE
+896,FLEXIBILITY Restuarant,Chinese,$$$,Bedford Park,06:00,23:00,1,FALSE
+897,MISSION-CRITICAL Restuarant,Laotian,$,Ocean Hill,11:00,15:00,0,TRUE
+898,GRAPHICAL USER INTERFACE Restuarant,Circassian,$$$,Queensboro Hill,09:00,17:00,1,TRUE
+899,PROFOUND Restuarant,German,$$,Edenwald,12:00,23:00,0,FALSE
+900,STRUCTURE Restuarant,Soviet,$,Woodlawn Heights,12:00,20:00,0,TRUE
+901,ENCODING Restuarant,Czech,$$,Concourse,11:00,17:00,0,TRUE
+902,STREAMLINED Restuarant,Czech,$,Hamilton Heights,10:00,17:00,0,TRUE
+903,MULTI-TIERED Restuarant,Sindhi,$,Mill Basin,13:00,22:00,0,TRUE
+904,HUMAN-RESOURCE Restuarant,Balochi,$$,Stapleton,09:00,20:00,0,FALSE
+905,BUDGETARY MANAGEMENT Restuarant,Peranakan,$,Fieldston,07:00,21:00,0,TRUE
+906,VISION-ORIENTED Restuarant,Crimean,$,Forest Hills,13:00,20:00,0,FALSE
+907,MODULAR Restuarant,Cantonese,$$$,Mapleton,07:00,17:00,0,FALSE
+908,IMPLEMENTED Restuarant,Tatar,$$$,Harding Park,07:00,00:00,0,TRUE
+909,EXPANDED Restuarant,Chinese,$,Sea Gate,13:00,15:00,0,FALSE
+910,CENTRALIZED Restuarant,Mughal,$,SoHo,08:00,17:00,0,FALSE
+911,HIGH-LEVEL Restuarant,Indian,$$$,Neponsit,12:00,22:00,0,TRUE
+912,TERTIARY Restuarant,Malaysian,$$,Wingate,06:00,23:00,0,TRUE
+913,BUDGETARY MANAGEMENT Restuarant,Slovak,$$,Arverne,13:00,18:00,0,TRUE
+914,EXTRANET Restuarant,Kazakh,$$,Jackson Heights,06:00,17:00,0,TRUE
+915,WORKFORCE Restuarant,Argentine,$,Tompkinsville,07:00,17:00,0,TRUE
+916,ATTITUDE-ORIENTED Restuarant,Greek,$$$,Kips Bay,11:00,23:00,0,FALSE
+917,MISSION-CRITICAL Restuarant,Bashkir,$,Rikers Island,09:00,15:00,0,FALSE
+918,FUNDAMENTAL Restuarant,Danish,$,Rockaway Park,09:00,20:00,0,FALSE
+919,ENCODING Restuarant,Anglo-Indian,$$$,Maspeth,07:00,20:00,0,TRUE
+920,MOTIVATING Restuarant,Creole,$,South Jamaica,06:00,21:00,0,FALSE
+921,DECENTRALIZED Restuarant,Sami,$$$,Norwood,08:00,00:00,0,FALSE
+922,FUNCTION Restuarant,Estonian,$,Randall Manor,11:00,23:00,0,TRUE
+923,REGIONAL Restuarant,Lebanese,$$$,Morris Park,10:00,22:00,0,FALSE
+924,COMPATIBLE Restuarant,Peranakan,$,Concord,10:00,22:00,0,TRUE
+925,ALGORITHM Restuarant,Buddhist,$,Park Slope,13:00,16:00,0,TRUE
+926,PROGRESSIVE Restuarant,Turkish,$$$,New Brighton,14:00,21:00,0,FALSE
+927,BALANCED Restuarant,Albanian,$,Stapleton,11:00,19:00,0,FALSE
+928,OPEN-ARCHITECTED Restuarant,Zanzibari,$,Indian Village,14:00,00:00,0,TRUE
+929,INTERMEDIATE Restuarant,Zanzibari,$$,Emerson Hill,07:00,17:00,0,TRUE
+930,MONITORED Restuarant,Ethiopian,$$,Indian Village,10:00,15:00,0,FALSE
+931,PUBLIC-KEY Restuarant,Sami,$$,Fort Greene,11:00,00:00,0,TRUE
+932,DEFINITION Restuarant,Danish,$,Clinton Hill,11:00,19:00,0,TRUE
+933,ARCHIVE Restuarant,British,$$$,Concourse,07:00,20:00,0,FALSE
+934,FUTURE-PROOFED Restuarant,Mordovian,$$,Ozone Park,10:00,20:00,0,FALSE
+935,ORGANIC Restuarant,cuisine,$$$,Cambria Heights,12:00,17:00,0,TRUE
+936,FUNCTION-BASED Restuarant,Crimean,$$$,Soundview,11:00,23:00,0,FALSE
+937,INITIATIVE Restuarant,Assyrian,$,Lenox Hill,10:00,20:00,0,TRUE
+938,PROGRESSIVE Restuarant,Texan,$$$,Throgs Neck,10:00,17:00,1,FALSE
+939,COMPATIBLE Restuarant,Mughal,$,Laurelton,14:00,23:00,0,FALSE
+940,INNOVATIVE Restuarant,Indian,$$$,Prince's Bay,08:00,23:00,0,TRUE
+941,FUNCTION-BASED Restuarant,Greek,$$,Greenridge,14:00,17:00,0,FALSE
+942,SHARABLE Restuarant,Goan,$$$,Gramercy Park,07:00,14:00,0,TRUE
+943,FACE TO FACE Restuarant,Caribbean,$$,Parkchester,13:00,22:00,0,TRUE
+944,SYSTEM-WORTHY Restuarant,cuisine,$,St. George,14:00,00:00,0,FALSE
+945,SYNERGIZED Restuarant,Tatar,$$,Mott Haven,14:00,16:00,0,FALSE
+946,FACE TO FACE Restuarant,Pashtun,$$$,Bronxdale,09:00,15:00,0,FALSE
+947,INCREMENTAL Restuarant,Indian,$$$,Murray Hill,14:00,00:00,0,TRUE
+948,GRAPHICAL USER INTERFACE Restuarant,Ethiopian,$$$,Upper West Side,09:00,14:00,0,FALSE
+949,MULTIMEDIA Restuarant,Pashtun,$$,Little Neck,08:00,18:00,0,FALSE
+950,CORE Restuarant,Yamal,$,Rossville,12:00,21:00,0,TRUE
+951,TOOLSET Restuarant,Louisiana,$$,Linden Hill,08:00,00:00,0,FALSE
+952,TANGIBLE Restuarant,Eritrean,$$$,Springfield Gardens,06:00,16:00,0,TRUE
+953,UPWARD-TRENDING Restuarant,Tamil,$$$,Jamaica,07:00,20:00,0,TRUE
+954,ENTERPRISE-WIDE Restuarant,Dutch,$,Mapleton,13:00,22:00,0,TRUE
+955,REDUCED Restuarant,Estonian,$$$,Locust Point,09:00,21:00,0,TRUE
+956,HOLISTIC Restuarant,Indian,$$,Hell's Kitchen,13:00,23:00,1,FALSE
+957,CROSS-PLATFORM Restuarant,German,$$,Castleton Corners,12:00,16:00,0,FALSE
+958,FUNCTION-BASED Restuarant,Buddhist,$,Forest Hills,13:00,20:00,0,TRUE
+959,MORATORIUM Restuarant,Mennonite,$$,Hollis,14:00,14:00,0,FALSE
+960,NATIONAL Restuarant,Chinese,$$,Greenwood Heights,13:00,22:00,0,FALSE
+961,MODERATOR Restuarant,Malaysian,$$,Farragut,11:00,16:00,0,TRUE
+962,ABILITY Restuarant,Albanian,$$,Bay Terrace,08:00,18:00,0,FALSE
+963,RADICAL Restuarant,Vietnamese,$$$,Bath Beach,14:00,22:00,0,FALSE
+964,NEUTRAL Restuarant,cuisine,$$,Bushwick,12:00,14:00,0,FALSE
+965,MANAGED Restuarant,Malaysian,$$$,North Corona,07:00,14:00,0,TRUE
+966,OPERATIVE Restuarant,Mexican,$$$,University Heights,08:00,14:00,0,FALSE
+967,DISCRETE Restuarant,Lebanese,$$,Little Italy,12:00,16:00,0,TRUE
+968,DEDICATED Restuarant,Udupi,$$$,Gowanus,06:00,16:00,0,TRUE
+969,PROACTIVE Restuarant,Filipino,$,Huguenot,13:00,22:00,0,TRUE
+970,COHERENT Restuarant,Jewish,$,Farragut,11:00,18:00,0,TRUE
+971,NEURAL-NET Restuarant,Singaporean,$,Silver Lake,07:00,19:00,1,FALSE
+972,USER-FACING Restuarant,Yamal,$,Stuyvesant Town,09:00,23:00,0,TRUE
+973,CUSTOMER-FOCUSED Restuarant,American,$,Richmond Hill,08:00,19:00,0,TRUE
+974,INITIATIVE Restuarant,Caribbean,$$$,Long Island City,14:00,18:00,0,TRUE
+975,SYNCHRONISED Restuarant,Irish,$,Van Cortlandt Village,09:00,18:00,0,FALSE
+976,CHALLENGE Restuarant,Chinese,$$,Dongan Hills,07:00,00:00,0,FALSE
+977,INTERFACE Restuarant,Chinese,$,Brownsville,10:00,18:00,0,TRUE
+978,THROUGHPUT Restuarant,cuisine,$,Marine Park,06:00,23:00,1,FALSE
+979,INTUITIVE Restuarant,Maharashtrian,$,Van Cortlandt Village,11:00,18:00,0,FALSE
+980,BOTTOM-LINE Restuarant,Peranakan,$$$,Unionport,09:00,18:00,1,FALSE
+981,ARTIFICIAL INTELLIGENCE Restuarant,New,$$$,Borough Park,12:00,15:00,0,FALSE
+982,CONTENT-BASED Restuarant,Italian-American,$$,Port Richmond,06:00,23:00,0,TRUE
+983,IMPACTFUL Restuarant,Italian,$$$,Grant City,11:00,20:00,0,TRUE
+984,CUSTOMER-FOCUSED Restuarant,Indian,$$$,Fish Bay,09:00,21:00,0,TRUE
+985,MULTI-STATE Restuarant,Lebanese,$,Howard Beach,12:00,18:00,0,FALSE
+986,ORGANIZED Restuarant,Punjabi,$$$,West Farms,11:00,16:00,0,FALSE
+987,CLIENT-SERVER Restuarant,cuisine,$$,East Flatbush,12:00,00:00,0,FALSE
+988,ORGANIZED Restuarant,French,$,Stuyvesant Heights,07:00,16:00,0,TRUE
+989,OPEN SYSTEM Restuarant,German,$$$,Bayside,11:00,16:00,0,TRUE
+990,EXTRANET Restuarant,Indonesian,$$$,Hunts Point,13:00,16:00,1,FALSE
+991,FOCUS GROUP Restuarant,Lebanese,$,Huguenot,11:00,23:00,0,FALSE
+992,CLONED Restuarant,American,$,Coney Island,09:00,20:00,0,FALSE
+993,GRAPHICAL USER INTERFACE Restuarant,Nepalese,$$,Tribeca,14:00,17:00,1,FALSE
+994,BUSINESS-FOCUSED Restuarant,cuisine,$,Blissville,09:00,15:00,0,TRUE
+995,MULTI-TIERED Restuarant,Awadhi,$,Pleasant Plains,14:00,22:00,0,TRUE
+996,ANALYZER Restuarant,New,$,Flatbush,08:00,21:00,0,FALSE
+997,TRANSITIONAL Restuarant,Bangladeshi,$,Woodside,13:00,18:00,0,FALSE
+998,MATRIX Restuarant,Mennonite,$$$,Prince's Bay,09:00,15:00,0,TRUE
+999,TRANSITIONAL Restuarant,Jewish,$,Edgemere,12:00,22:00,0,TRUE
+1000,ZERO TOLERANCE Restuarant,Awadhi,$$,Rockaway Park,11:00,14:00,0,FALSE
